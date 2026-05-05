@@ -1,0 +1,13 @@
+main:
+  - name: Perfil
+    url: /
+    weight: 10
+  - name: Experiencia
+    url: experience/
+    weight: 20
+  - name: Proyectos
+    url: projects/
+    weight: 30
+  - name: Habilidades
+    url: skills/
+    weight: 40

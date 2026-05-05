@@ -1,0 +1,47 @@
+J u a n  H e r n á n d e z
+CLINICAL DATA & PROCESS
+OPTIMIZATION ANALYST
+PYTHON AUTOMATION QC
+📞 7862607302
+📍  Mexico (GMT-6)
+ ✉ juan.hdz.9718@gmail.com
+ 🔗 www.linkedin.com/in/yeidan18
+M.Sc. Plant Biotechnology 
+CINVESTAV-UGA, Mexico | 2024
+B.Sc. Biochemical Engineering
+Tecnológico Superior de Cd. Hidalgo, Mexico | 2021
+Educación
+Profile
+D a t a - d r i v e n  p r o f e s s i o n a l  w i t h  e x p e r i e n c e  i n  m o l e c u l a r  d i a g n o s t i c s ,  c l i n i c a l  w o r k f l o w s ,  a n d
+p r o c e s s  o p t i m i z a t i o n .  S p e c i a l i z e d  i n  a u t o m a t i n g  l a b o r a t o r y  o p e r a t i o n s  u s i n g  P y t h o n ,
+r e d u c i n g  m a n u a l  w o r k l o a d  a n d  i m p r o v i n g  d a t a  r e l i a b i l i t y .  S t r o n g  f o c u s  o n  q u a l i t y  c o n t r o l ,
+o p e r a t i o n a l  e f f i c i e n c y ,  a n d  e r r o r  r e d u c t i o n  i n  h i g h - t h r o u g h p u t  e n v i r o n m e n t s .
+Work Experience
+Molecular Biology  & Data Analyst 
+Hospital MAC – Irapuato, Mexico | May 2024 – Present 
+Validated and processed 600+ molecular diagnostic assays monthly in a high-throughput clinical
+environment
+Automated laboratory reporting workflows using Python, reducing manual workload by ~40% and
+minimizing human error
+Developed data analysis and visualization tools to monitor operational performance and quality control
+Ensured compliance with clinical quality standards and regulatory requirements
+Junior Researcher 
+CINVESTAV – Irapuato, Mexico | Aug 2021 – Aug 2023
+Designed and executed molecular biology experiments for  biotechnology research
+Analyzed experimental data using statistical methods 
+Developed Python scripts for data processing and visualization
+Contributed to technical reports and research documentation
+🧬 Clinical Data Analysis Pipeline  Python-based analysis of COVID-19 clinical data with  statistical modeling
+and visualization 
+🧪 Bioinformatics Sequence Analyzer  Tool for DNA/protein sequence analysis using Biopython 
+📊 Laboratory Data Dashboard  Streamlit web app for automated QC and reporting
+Projects (GitHub Portfolio)
+Technical Skills
+Languages & Tools: Python, Git, Excel (advanced) 
+Data Analysis: pandas, numpy, statistical analysis 
+Visualization: matplotlib, seaborn, plotly
+Development: Streamlit, Jupyter, API integration
+Domain: Molecular diagnostics, clinical data,
+QC/QA
+Spanish (Native) 
+English (B2 - Technical reading & writing) 

@@ -4,19 +4,16 @@
 
 # Default language
 en:
+  languageName: English
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+  weight: 1
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+es:
+  languageName: Español
+  languageCode: es
+  contentDir: content/es
+  weight: 2
+  title: CV Juan Hernández
+  params:
+    description: 'CV de Juan Hernández - Analista de Datos Clínicos y Optimización de Procesos'
