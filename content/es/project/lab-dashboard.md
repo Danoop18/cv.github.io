@@ -7,7 +7,7 @@ tags:
   - QC
 date: '2024-01-01T00:00:00Z'
 
-external_link: ''
+
 ---
 
 Aplicación web Streamlit para automatización de QC y reportes.

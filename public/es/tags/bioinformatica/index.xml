@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinformática | CV Juan Hernández</title>
+    <link>http://localhost:1313/es/tags/bioinformatica/</link>
+      <atom:link href="http://localhost:1313/es/tags/bioinformatica/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bioinformática</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>Bioinformática</title>
+      <link>http://localhost:1313/es/tags/bioinformatica/</link>
+    </image>
+    
+    <item>
+      <title>Analizador de Secuencias Bioinformáticas</title>
+      <link>http://localhost:1313/es/project/bioinformatics-analyzer/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/project/bioinformatics-analyzer/</guid>
+      <description>&lt;p&gt;Herramienta para el análisis de secuencias de ADN/proteínas usando Biopython.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

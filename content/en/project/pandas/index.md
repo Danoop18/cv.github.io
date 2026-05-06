@@ -1,13 +1,15 @@
 ---
-title: Pandas
+title: Excel/CSV Laboratory Data Automation
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+links:
+  - type: site
+    url: https://github.com/Danoop18/form_vba
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - VBA
+  - Excel
+  - Automation
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Built an Excel VBA automation tool for laboratory workflows, enabling structured data entry, CSV processing, automated reports, and faster handling of repetitive spreadsheet tasks.
 
 <!--more-->

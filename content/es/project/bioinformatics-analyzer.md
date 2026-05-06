@@ -6,7 +6,7 @@ tags:
   - Bioinformática
 date: '2023-06-01T00:00:00Z'
 
-external_link: ''
+
 ---
 
 Herramienta para el análisis de secuencias de ADN/proteínas usando Biopython.

@@ -27,17 +27,21 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:juan.hdz.9718@gmail.com'
-    label: E-mail Me
+    url: "https://mail.google.com/mail/?view=cm&fs=1&to=juan.hdz.9718@gmail.com&su=Contacto%20desde%20mi%20CV&body=Hola%20Daniel%2C%20vi%20tu%20p%C3%A1gina%20y%20me%20gustar%C3%ADa%20contactarte."
+    label: E-mail Me 
+  - icon: clipboard
+    icon_pack: hero
+    link: "mailto:juan.hdz.9718@gmail.com"
+    label: "juan.hdz.9718@gmail.com"
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yeidan18
   - icon: brands/github
     url: https://github.com/Danoop18
-  - icon: map-pin
-    url: ''
-    label: Mexico (GMT-6)
+  # - icon: map-pin
+  #   url: ''
+  #   label: Mexico (GMT-6)
   - icon: phone
-    url: 'tel:+527862607302'
+    url: 'https://wa.me/+527862607302/?text=Hi%2C%20I%20saw%20your%20profile%20and%20I%20would%20like%20to%20contact%20you.'
     label: '+52 786 260 7302'
 
 interests:
@@ -88,8 +92,8 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 90
+        description: 'Scraping, Automation, Data Analysis, Machine Learning'
+        percent: 20
         icon: code-bracket
       - name: Data Analysis
         description: 'pandas, numpy, statistical analysis'
@@ -105,12 +109,12 @@ skills:
         icon: command-line
   - name: Domain Expertise
     color: '#eeac02'
-    color_border: '#f0bf23'
+    color_border: '#23f0e9ff'
     items:
       - name: Molecular Diagnostics
         description: ''
         percent: 90
-        icon: dna
+        icon: beaker
       - name: QC/QA
         description: ''
         percent: 85
@@ -123,6 +127,7 @@ skills:
 languages:
   - name: Spanish
     percent: 100
+    icon: check-badge
   - name: English (B2)
     percent: 75
 

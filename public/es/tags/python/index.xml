@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python | CV Juan Hernández</title>
+    <link>http://localhost:1313/es/tags/python/</link>
+      <atom:link href="http://localhost:1313/es/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>Python</title>
+      <link>http://localhost:1313/es/tags/python/</link>
+    </image>
+    
+    <item>
+      <title>Dashboard de Datos de Laboratorio</title>
+      <link>http://localhost:1313/es/project/lab-dashboard/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/project/lab-dashboard/</guid>
+      <description>&lt;p&gt;Aplicación web Streamlit para automatización de QC y reportes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analizador de Secuencias Bioinformáticas</title>
+      <link>http://localhost:1313/es/project/bioinformatics-analyzer/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/project/bioinformatics-analyzer/</guid>
+      <description>&lt;p&gt;Herramienta para el análisis de secuencias de ADN/proteínas usando Biopython.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pipeline de Análisis de Datos Clínicos</title>
+      <link>http://localhost:1313/es/project/clinical-data-pipeline/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/project/clinical-data-pipeline/</guid>
+      <description>&lt;p&gt;Análisis de datos clínicos de COVID-19 basado en Python con modelado estadístico y visualización.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,13 +1,16 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: web-scraping-app-python
+date: 2025-01-25
+links:
+  - type: site
+    url: https://github.com/Danoop18/KPI_data_quality_laboratory
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Python
+  - Streamlit
+  - data-quality
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Developed a Python automation pipeline using Selenium and Pandas to extract, clean, store, and analyze AU480 quality control data, improving lab performance monitoring and reducing manual entry errors.
+
 
 <!--more-->

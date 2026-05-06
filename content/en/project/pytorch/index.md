@@ -1,13 +1,16 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: KPI data quality laboratory
+date: 2025-01-26
+links:
+  - type: site
+    url: https://github.com/Danoop18/KPI_data_quality_laboratory
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Python
+  - Streamlit
+  - data-quality
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+
+Developed a Python automation pipeline using Selenium and Pandas to insert, analyze and extract metrics from AU480 quality control data.
 
 <!--more-->

@@ -110,7 +110,7 @@ skills:
       - name: Diagnóstico Molecular
         description: ''
         percent: 90
-        icon: dna
+        icon: beaker
       - name: QC/QA (Control/Aseguramiento de Calidad)
         description: ''
         percent: 85

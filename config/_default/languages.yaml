@@ -4,14 +4,14 @@
 
 # Default language
 en:
-  languageName: English
-  languageCode: en-us
+  label: English
+  locale: en-us
   contentDir: content/en
   weight: 1
 
 es:
-  languageName: Español
-  languageCode: es
+  label: Español
+  locale: es
   contentDir: content/es
   weight: 2
   title: CV Juan Hernández
