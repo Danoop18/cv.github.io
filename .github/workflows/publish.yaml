@@ -47,6 +47,8 @@ jobs:
       uses: actions/configure-pages@v5
       with:
         enablement: true
+    - name: Install TailwindCSS
+      run: npm install
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
