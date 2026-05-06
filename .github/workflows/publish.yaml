@@ -48,7 +48,7 @@ jobs:
       with:
         enablement: true
     - name: Install TailwindCSS
-      run: npm install
+      run: npm install -g tailwindcss @tailwindcss/cli
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
