@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laboratory Data | Juan Hernández - CV</title>
+    <link>http://localhost:1313/tags/laboratory-data/</link>
+      <atom:link href="http://localhost:1313/tags/laboratory-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laboratory Data</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>Laboratory Data</title>
+      <link>http://localhost:1313/tags/laboratory-data/</link>
+    </image>
+    
+    <item>
+      <title>Molecular Diagnostics Data Structuring</title>
+      <link>http://localhost:1313/project/bioinformatics-analyzer/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/bioinformatics-analyzer/</guid>
+      <description>&lt;p&gt;Laboratory data structuring concept for organizing molecular diagnostics outputs into cleaner, more traceable records for review and reporting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

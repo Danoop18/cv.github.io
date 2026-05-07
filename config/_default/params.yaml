@@ -6,16 +6,20 @@
 # Appearance
 appearance:
   mode: dark
-  color: emerald
+  color: violet
 
 # SEO
 marketing:
   seo:
     site_type: Person
+# Para cuando vendes cosas o tienes una empresa
+    # site_type: LocalBusiness
+    # local_business_type: ProfessionalService
+    # org_name: 'Nombre de tu marca'
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Professional portfolio of Juan Hernández: laboratory automation, molecular diagnostics, Python, VBA, clinical data analysis, and workflow optimization for clinical laboratory environments.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,26 +39,29 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Juan Hernandez"
+      text: "Juan Hernández"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Juan Hernández. Laboratory Automation · Clinical Data · Molecular Diagnostics.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
+
+# Hide the default template attribution from the footer.
+i_am_a_sponsor: true
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '02 Jan 2006'
+  time_format: '15:04'
 
 # Site features
 features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true

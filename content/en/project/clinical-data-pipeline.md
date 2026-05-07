@@ -1,13 +1,16 @@
 ---
-title: Clinical Data Analysis Pipeline
-summary: Python-based analysis of COVID-19 clinical data with statistical modeling and visualization.
+title: Clinical Data Pipeline for Laboratory Reporting
+summary: Structured data pipeline concept for cleaning, organizing, and preparing clinical laboratory records for reporting and process monitoring.
 tags:
   - Python
-  - Data Analysis
+  - Pandas
+  - Clinical Data
+  - Data Cleaning
+  - Reporting
 date: '2023-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 
 ---
 
-Python-based analysis of COVID-19 clinical data with statistical modeling and visualization.
+Structured data pipeline concept for cleaning, organizing, and preparing clinical laboratory records for reporting and process monitoring.

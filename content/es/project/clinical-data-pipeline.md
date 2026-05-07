@@ -1,12 +1,15 @@
 ---
-title: Pipeline de Análisis de Datos Clínicos
-summary: Análisis de datos clínicos de COVID-19 basado en Python con modelado estadístico y visualización.
+title: Automatización de Datos de Laboratorio en Excel/CSV
+summary: Flujo de trabajo con Excel y VBA para consolidar, limpiar y transformar datos de laboratorio provenientes de múltiples archivos, conservando estructura y reduciendo errores manuales en reportes.
 tags:
-  - Python
-  - Análisis de Datos
+  - VBA
+  - Excel
+  - CSV
+  - Reportes
+  - Limpieza de Datos
 date: '2023-01-01T00:00:00Z'
 
 
 ---
 
-Análisis de datos clínicos de COVID-19 basado en Python con modelado estadístico y visualización.
+Flujo de trabajo con Excel y VBA para consolidar, limpiar y transformar datos de laboratorio provenientes de múltiples archivos, conservando estructura y reduciendo errores manuales en reportes.

@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Analista de Datos Clínicos y Optimización de Procesos
+role: Analista de Automatización y Datos para Laboratorio Clínico
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -28,11 +28,13 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:juan.hdz.9718@gmail.com'
-    label: Correo Electrónico
+    label: Contactar
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yeidan18
+    label: LinkedIn
   - icon: brands/github
     url: https://github.com/Danoop18
+    label: GitHub
   - icon: map-pin
     url: ''
     label: México (GMT-6)
@@ -41,10 +43,12 @@ profiles:
     label: '+52 786 260 7302'
 
 interests:
-  - Optimización de Procesos
-  - Automatización QC con Python
-  - Diagnóstico Molecular
-  - Flujos de Trabajo Clínicos
+  - Automatización de laboratorio
+  - Diagnóstico molecular
+  - Pipelines de datos clínicos
+  - Monitoreo de control de calidad
+  - Herramientas Python/VBA
+  - Optimización de flujos de trabajo
 
 education:
   - area: Maestría en Biotecnología de Plantas
@@ -68,10 +72,11 @@ work:
     date_start: 2024-05-01
     date_end: ''
     summary: |
-      - Validación y procesamiento de más de 600 ensayos de diagnóstico molecular mensuales en un entorno clínico de alto rendimiento.
-      - Automatización de flujos de trabajo de informes de laboratorio utilizando Python, reduciendo el trabajo manual en un ~40% y minimizando el error humano.
-      - Desarrollo de herramientas de análisis y visualización de datos para monitorear el desempeño operativo y el control de calidad.
-      - Garantizar el cumplimiento de los estándares de calidad clínica y requisitos regulatorios.
+      - Ejecución de flujos de trabajo de diagnóstico molecular en entorno de laboratorio clínico.
+      - Automatización de procesos repetitivos de datos de laboratorio usando Python y Excel/VBA.
+      - Mejora de estructura, trazabilidad y consistencia de datos operativos del laboratorio.
+      - Apoyo al monitoreo y reporte de control de calidad mediante flujos de datos más limpios.
+      - Identificación de cuellos de botella manuales y conversión de estos en oportunidades de automatización.
   - position: Investigador Junior
     company_name: CINVESTAV – Irapuato, México
     company_url: ''
@@ -80,45 +85,51 @@ work:
     date_end: 2023-08-01
     summary: |
       - Diseño y ejecución de experimentos de biología molecular para investigación en biotecnología.
-      - Análisis de datos experimentales mediante métodos estadísticos.
-      - Desarrollo de scripts en Python para el procesamiento y visualización de datos.
-      - Contribución a informes técnicos y documentación de investigación.
+      - Estructuración de datos experimentales para análisis, documentación y reportes técnicos.
+      - Desarrollo de scripts en Python para procesamiento y visualización de datos.
+      - Traducción de necesidades de laboratorio en flujos de datos reproducibles.
 
 skills:
-  - name: Habilidades Técnicas
+  - name: Laboratorio
+    items:
+      - name: Diagnóstico molecular
+        icon: beaker
+      - name: Control de calidad clínico
+        icon: check-badge
+      - name: Flujos de trabajo de laboratorio
+        icon: arrow-path
+      - name: Procesamiento de muestras
+        icon: circle-stack
+  - name: Automatización
     items:
       - name: Python
-        description: ''
-        percent: 90
         icon: code-bracket
-      - name: Análisis de Datos
-        description: 'pandas, numpy, análisis estadístico'
-        percent: 85
-        icon: chart-bar
-      - name: Visualización
-        description: 'matplotlib, seaborn, plotly'
-        percent: 80
-        icon: presentation-chart-line
-      - name: Desarrollo
-        description: 'Streamlit, Jupyter, integración de APIs, Git'
-        percent: 75
+      - name: Excel VBA
         icon: command-line
-  - name: Experiencia en el Dominio
-    color: '#eeac02'
-    color_border: '#f0bf23'
+      - name: Selenium
+        icon: cursor-arrow-rays
+      - name: Pandas
+        icon: table-cells
+  - name: Datos
     items:
-      - name: Diagnóstico Molecular
-        description: ''
-        percent: 90
-        icon: beaker
-      - name: QC/QA (Control/Aseguramiento de Calidad)
-        description: ''
-        percent: 85
-        icon: check-badge
-      - name: Datos Clínicos
-        description: ''
-        percent: 80
-        icon: document-text
+      - name: Limpieza de datos
+        icon: funnel
+      - name: Dashboards KPI
+        icon: presentation-chart-line
+      - name: Automatización de reportes
+        icon: document-chart-bar
+      - name: Monitoreo de procesos
+        icon: chart-bar
+  - name: Herramientas
+    items:
+      - name: Streamlit
+        icon: window
+      - name: GitHub
+        icon: brands/github
+      - name: Excel
+        icon: table-cells
+      - name: Analizadores clínicos
+        icon: cpu-chip
 
 languages:
   - name: Español (Nativo)
@@ -128,6 +139,6 @@ languages:
 
 ---
 
-## Perfil Profesional
+**Convierto procesos repetitivos de laboratorio en sistemas automatizados, trazables y listos para la toma de decisiones.**
 
-Profesional impulsado por los datos con experiencia en diagnóstico molecular, flujos de trabajo clínicos y optimización de procesos. Especializado en la automatización de operaciones de laboratorio usando Python, reduciendo la carga de trabajo manual y mejorando la confiabilidad de los datos. Fuerte enfoque en el control de calidad, la eficiencia operativa y la reducción de errores en entornos de alto rendimiento.
+Profesional de laboratorio clínico especializado en diagnóstico molecular, automatización de datos y optimización de flujos de trabajo. Desarrollo herramientas con Python, Excel/VBA y análisis de datos para reducir trabajo manual repetitivo, estructurar información de laboratorio, mejorar trazabilidad y apoyar decisiones de control de calidad.

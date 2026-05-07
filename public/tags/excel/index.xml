@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/excel/</link>
       <atom:link href="http://localhost:1313/tags/excel/index.xml" rel="self" type="application/rss+xml" />
     <description>Excel</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
       <title>Excel</title>
@@ -13,11 +13,19 @@
     </image>
     
     <item>
+      <title>Laboratory Report Consolidation Tool</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;Automation tool for consolidating laboratory reports from multiple Excel files, standardizing records, and generating cleaner outputs for operational review.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Excel/CSV Laboratory Data Automation</title>
       <link>http://localhost:1313/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Built an Excel VBA automation tool for laboratory workflows, enabling structured data entry, CSV processing, automated reports, and faster handling of repetitive spreadsheet tasks.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Excel and VBA-based workflow for consolidating, cleaning, and transforming laboratory data from multiple files while preserving structure and reducing manual reporting errors.&lt;/p&gt;</description>
     </item>
     
   </channel>

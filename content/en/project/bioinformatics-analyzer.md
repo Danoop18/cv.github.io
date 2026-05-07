@@ -1,12 +1,14 @@
 ---
-title: Bioinformatics Sequence Analyzer
-summary: Tool for DNA/protein sequence analysis using Biopython.
+title: Molecular Diagnostics Data Structuring
+summary: Laboratory data structuring concept for organizing molecular diagnostics outputs into cleaner, more traceable records for review and reporting.
 tags:
   - Python
-  - Bioinformatics
+  - Molecular Diagnostics
+  - Laboratory Data
+  - Traceability
 date: '2023-06-01T00:00:00Z'
 
 
 ---
 
-Tool for DNA/protein sequence analysis using Biopython.
+Laboratory data structuring concept for organizing molecular diagnostics outputs into cleaner, more traceable records for review and reporting.

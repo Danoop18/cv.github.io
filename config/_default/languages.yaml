@@ -8,6 +8,10 @@ en:
   locale: en-us
   contentDir: content/en
   weight: 1
+  params:
+    marketing:
+      seo:
+        description: 'Professional portfolio of Juan Hernández: laboratory automation, molecular diagnostics, Python, VBA, clinical data analysis, and workflow optimization for clinical laboratory environments.'
 
 es:
   label: Español
@@ -16,4 +20,7 @@ es:
   weight: 2
   title: CV Juan Hernández
   params:
-    description: 'CV de Juan Hernández - Analista de Datos Clínicos y Optimización de Procesos'
+    description: 'Portfolio profesional de Juan Hernández: automatización de laboratorio, biología molecular, Python, VBA, análisis de datos clínicos y optimización de procesos para entornos clínicos.'
+    marketing:
+      seo:
+        description: 'Portfolio profesional de Juan Hernández: automatización de laboratorio, biología molecular, Python, VBA, análisis de datos clínicos y optimización de procesos para entornos clínicos.'

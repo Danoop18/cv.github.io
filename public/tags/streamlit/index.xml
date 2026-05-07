@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/streamlit/</link>
       <atom:link href="http://localhost:1313/tags/streamlit/index.xml" rel="self" type="application/rss+xml" />
     <description>Streamlit</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
       <title>Streamlit</title>
@@ -13,27 +13,11 @@
     </image>
     
     <item>
-      <title>KPI data quality laboratory</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;Developed a Python automation pipeline using Selenium and Pandas to insert, analyze and extract metrics from AU480 quality control data.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>web-scraping-app-python</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;Developed a Python automation pipeline using Selenium and Pandas to extract, clean, store, and analyze AU480 quality control data, improving lab performance monitoring and reducing manual entry errors.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Laboratory Data Dashboard</title>
+      <title>Clinical KPI Dashboard</title>
       <link>http://localhost:1313/project/lab-dashboard/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/lab-dashboard/</guid>
-      <description>&lt;p&gt;Streamlit web app for automated QC and reporting.&lt;/p&gt;
+      <description>&lt;p&gt;Interactive dashboard concept for monitoring clinical laboratory indicators, service demand, workflow distribution, and operational performance using structured data pipelines.&lt;/p&gt;
 </description>
     </item>
     

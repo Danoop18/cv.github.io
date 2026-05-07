@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Clinical Data & Process Optimization Analyst
+role: Clinical Laboratory Automation & Data Analyst
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -27,28 +27,29 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: "https://mail.google.com/mail/?view=cm&fs=1&to=juan.hdz.9718@gmail.com&su=Contacto%20desde%20mi%20CV&body=Hola%20Daniel%2C%20vi%20tu%20p%C3%A1gina%20y%20me%20gustar%C3%ADa%20contactarte."
-    label: E-mail Me 
+    url: "mailto:juan.hdz.9718@gmail.com"
+    label: Contact Me
   - icon: clipboard
     icon_pack: hero
     link: "mailto:juan.hdz.9718@gmail.com"
     label: "juan.hdz.9718@gmail.com"
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yeidan18
+    label: LinkedIn
   - icon: brands/github
     url: https://github.com/Danoop18
-  # - icon: map-pin
-  #   url: ''
-  #   label: Mexico (GMT-6)
+    label: GitHub
   - icon: phone
-    url: 'https://wa.me/+527862607302/?text=Hi%2C%20I%20saw%20your%20profile%20and%20I%20would%20like%20to%20contact%20you.'
+    url: 'https://wa.me/+527862607302/?text=Hi%2C%20I%20saw%20your%20professional%20portfolio%20and%20would%20like%20to%20contact%20you.'
     label: '+52 786 260 7302'
 
 interests:
-  - Process Optimization
-  - Python Automation QC
+  - Laboratory Automation
   - Molecular Diagnostics
-  - Clinical Workflows
+  - Clinical Data Pipelines
+  - Quality Control Monitoring
+  - Python/VBA Tools
+  - Workflow Optimization
 
 education:
   - area: M.Sc. Plant Biotechnology
@@ -72,10 +73,11 @@ work:
     date_start: 2024-05-01
     date_end: ''
     summary: |
-      - Validated and processed 600+ molecular diagnostic assays monthly in a high-throughput clinical environment
-      - Automated laboratory reporting workflows using Python, reducing manual workload by ~40% and minimizing human error
-      - Developed data analysis and visualization tools to monitor operational performance and quality control
-      - Ensured compliance with clinical quality standards and regulatory requirements
+      - Performed molecular diagnostics workflows in a clinical laboratory environment.
+      - Automated repetitive laboratory data processes using Python and Excel/VBA.
+      - Improved structure, traceability, and consistency of operational laboratory data.
+      - Supported quality control monitoring and reporting through cleaner data workflows.
+      - Collaborated with clinical laboratory staff to identify manual bottlenecks and convert them into automation opportunities.
   - position: Junior Researcher
     company_name: CINVESTAV – Irapuato, Mexico
     company_url: ''
@@ -83,46 +85,52 @@ work:
     date_start: 2021-08-01
     date_end: 2023-08-01
     summary: |
-      - Designed and executed molecular biology experiments for biotechnology research
-      - Analyzed experimental data using statistical methods
-      - Developed Python scripts for data processing and visualization
-      - Contributed to technical reports and research documentation
+      - Designed and executed molecular biology experiments for biotechnology research.
+      - Structured experimental data for analysis, documentation, and technical reporting.
+      - Developed Python scripts for data processing and visualization.
+      - Translated laboratory needs into reproducible data workflows.
 
 skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: 'Scraping, Automation, Data Analysis, Machine Learning'
-        percent: 20
-        icon: code-bracket
-      - name: Data Analysis
-        description: 'pandas, numpy, statistical analysis'
-        percent: 85
-        icon: chart-bar
-      - name: Visualization
-        description: 'matplotlib, seaborn, plotly'
-        percent: 80
-        icon: presentation-chart-line
-      - name: Development
-        description: 'Streamlit, Jupyter, API integration, Git'
-        percent: 75
-        icon: command-line
-  - name: Domain Expertise
-    color: '#eeac02'
-    color_border: '#23f0e9ff'
+  - name: Laboratory
     items:
       - name: Molecular Diagnostics
-        description: ''
-        percent: 90
         icon: beaker
-      - name: QC/QA
-        description: ''
-        percent: 85
+      - name: Clinical Quality Control
         icon: check-badge
-      - name: Clinical Data
-        description: ''
-        percent: 80
-        icon: document-text
+      - name: Laboratory Workflows
+        icon: arrow-path
+      - name: Sample Processing
+        icon: circle-stack
+  - name: Automation
+    items:
+      - name: Python
+        icon: code-bracket
+      - name: Excel VBA
+        icon: command-line
+      - name: Selenium
+        icon: cursor-arrow-rays
+      - name: Pandas
+        icon: table-cells
+  - name: Data
+    items:
+      - name: Data Cleaning
+        icon: funnel
+      - name: KPI Dashboards
+        icon: presentation-chart-line
+      - name: Report Automation
+        icon: document-chart-bar
+      - name: Process Monitoring
+        icon: chart-bar
+  - name: Tools
+    items:
+      - name: Streamlit
+        icon: window
+      - name: GitHub
+        icon: brands/github
+      - name: Excel
+        icon: table-cells
+      - name: Clinical analyzers
+        icon: cpu-chip
 
 languages:
   - name: Spanish
@@ -133,6 +141,6 @@ languages:
 
 ---
 
-## Profile
+**I turn repetitive laboratory workflows into automated, traceable, and decision-ready systems.**
 
-Data-driven professional with experience in molecular diagnostics, clinical workflows, and process optimization. Specialized in automating laboratory operations using Python, reducing manual workload and improving data reliability. Strong focus on quality control, operational efficiency, and error reduction in high-throughput environments.
+Clinical laboratory professional specialized in molecular diagnostics, data automation, and workflow optimization. I build Python and Excel/VBA tools that reduce repetitive manual work, structure laboratory data, improve traceability, and support quality control decisions in clinical environments.

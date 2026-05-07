@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automatización | CV Juan Hernández</title>
+    <link>http://localhost:1313/es/tags/automatizacion/</link>
+      <atom:link href="http://localhost:1313/es/tags/automatizacion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Automatización</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>Automatización</title>
+      <link>http://localhost:1313/es/tags/automatizacion/</link>
+    </image>
+    
+    <item>
+      <title>Herramienta de Consolidación de Reportes de Laboratorio</title>
+      <link>http://localhost:1313/es/project/laboratory-report-consolidation/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/project/laboratory-report-consolidation/</guid>
+      <description>&lt;p&gt;Herramienta de automatización para consolidar reportes de laboratorio desde múltiples archivos Excel, estandarizar registros y generar salidas más limpias para revisión operativa.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatización de Datos QC AU480</title>
+      <link>http://localhost:1313/es/project/bioinformatics-analyzer/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/project/bioinformatics-analyzer/</guid>
+      <description>&lt;p&gt;Sistema de automatización con Python para extraer, limpiar y estructurar datos de control de calidad relacionados con flujos de trabajo del analizador clínico AU480. Diseñado para reducir manipulación manual repetitiva y apoyar el monitoreo del desempeño del laboratorio.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

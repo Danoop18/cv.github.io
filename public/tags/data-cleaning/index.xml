@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Cleaning | Juan Hernández - CV</title>
+    <link>http://localhost:1313/tags/data-cleaning/</link>
+      <atom:link href="http://localhost:1313/tags/data-cleaning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Cleaning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>Data Cleaning</title>
+      <link>http://localhost:1313/tags/data-cleaning/</link>
+    </image>
+    
+    <item>
+      <title>Excel/CSV Laboratory Data Automation</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;Excel and VBA-based workflow for consolidating, cleaning, and transforming laboratory data from multiple files while preserving structure and reducing manual reporting errors.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Clinical Data Pipeline for Laboratory Reporting</title>
+      <link>http://localhost:1313/project/clinical-data-pipeline/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/clinical-data-pipeline/</guid>
+      <description>&lt;p&gt;Structured data pipeline concept for cleaning, organizing, and preparing clinical laboratory records for reporting and process monitoring.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

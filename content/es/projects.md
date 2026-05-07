@@ -9,8 +9,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Proyectos Destacados
-      text: Una selección de proyectos técnicos recientes.
+      title: Proyectos de Automatización de Laboratorio
+      text: Trabajo seleccionado enfocado en automatización de laboratorio clínico, datos de control de calidad, reportes y visibilidad operativa.
       filters:
         folders:
           - project

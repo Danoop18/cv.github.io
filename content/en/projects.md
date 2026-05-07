@@ -5,14 +5,14 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '25rem'
+  spacing: '5rem'
 
 # Page sections
 sections:
   - block: collection
     content:
-      title: My Projects collection
-      text: Here are some of the projects I've worked on. I enjoy making things that solve real-world problems, whether they're big or small. 
+      title: Laboratory Automation Projects
+      text: Selected work focused on clinical laboratory automation, quality control data, reporting workflows, and operational visibility.
       filters:
         folders:
           - project

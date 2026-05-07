@@ -14,6 +14,52 @@
       href="http://localhost:1313/es/projects/"
     /></url>
   <url>
+    <loc>http://localhost:1313/es/tags/automatizacion/</loc><lastmod>2024-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/es/tags/excel/</loc><lastmod>2024-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/tags/excel/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/excel/"
+    /></url>
+  <url>
+    <loc>http://localhost:1313/es/project/laboratory-report-consolidation/</loc><lastmod>2024-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/es/tags/procesamiento-de-datos/</loc><lastmod>2024-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/es/project/</loc><lastmod>2024-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/project/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/project/"
+    /></url>
+  <url>
+    <loc>http://localhost:1313/es/tags/python/</loc><lastmod>2024-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/tags/python/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/python/"
+    /></url>
+  <url>
+    <loc>http://localhost:1313/es/tags/</loc><lastmod>2024-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/tags/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/"
+    /></url>
+  <url>
     <loc>http://localhost:1313/es/project/lab-dashboard/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -24,34 +70,18 @@
       href="http://localhost:1313/es/project/lab-dashboard/"
     /></url>
   <url>
-    <loc>http://localhost:1313/es/project/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/project/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/project/"
-    /></url>
+    <loc>http://localhost:1313/es/tags/datos-clinicos/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/es/tags/python/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/tags/python/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/python/"
-    /></url>
+    <loc>http://localhost:1313/es/tags/kpi/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/es/tags/qc/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>http://localhost:1313/es/tags/pandas/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/tags/qc/"
+      href="http://localhost:1313/tags/pandas/"
     /><xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/es/tags/qc/"
+      href="http://localhost:1313/es/tags/pandas/"
     /></url>
   <url>
     <loc>http://localhost:1313/es/tags/streamlit/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -62,16 +92,6 @@
       rel="alternate"
       hreflang="es"
       href="http://localhost:1313/es/tags/streamlit/"
-    /></url>
-  <url>
-    <loc>http://localhost:1313/es/tags/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/"
     /></url>
   <url>
     <loc>http://localhost:1313/es/experience/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -104,9 +124,17 @@
       href="http://localhost:1313/es/project/bioinformatics-analyzer/"
     /></url>
   <url>
-    <loc>http://localhost:1313/es/tags/bioinformatica/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/es/tags/qc-clinico/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/es/tags/analisis-de-datos/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/es/tags/selenium/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/tags/selenium/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/selenium/"
+    /></url>
   <url>
     <loc>http://localhost:1313/es/project/clinical-data-pipeline/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -116,6 +144,30 @@
       rel="alternate"
       hreflang="es"
       href="http://localhost:1313/es/project/clinical-data-pipeline/"
+    /></url>
+  <url>
+    <loc>http://localhost:1313/es/tags/csv/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/tags/csv/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/csv/"
+    /></url>
+  <url>
+    <loc>http://localhost:1313/es/tags/limpieza-de-datos/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/es/tags/reportes/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/es/tags/vba/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/tags/vba/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/vba/"
     /></url>
   <url>
     <loc>http://localhost:1313/es/</loc><lastmod>2022-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link

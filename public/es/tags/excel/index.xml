@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Excel | CV Juan Hernández</title>
+    <link>http://localhost:1313/es/tags/excel/</link>
+      <atom:link href="http://localhost:1313/es/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Excel</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>Excel</title>
+      <link>http://localhost:1313/es/tags/excel/</link>
+    </image>
+    
+    <item>
+      <title>Herramienta de Consolidación de Reportes de Laboratorio</title>
+      <link>http://localhost:1313/es/project/laboratory-report-consolidation/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/project/laboratory-report-consolidation/</guid>
+      <description>&lt;p&gt;Herramienta de automatización para consolidar reportes de laboratorio desde múltiples archivos Excel, estandarizar registros y generar salidas más limpias para revisión operativa.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatización de Datos de Laboratorio en Excel/CSV</title>
+      <link>http://localhost:1313/es/project/clinical-data-pipeline/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/project/clinical-data-pipeline/</guid>
+      <description>&lt;p&gt;Flujo de trabajo con Excel y VBA para consolidar, limpiar y transformar datos de laboratorio provenientes de múltiples archivos, conservando estructura y reduciendo errores manuales en reportes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,6 @@
 ---
 title: Excel/CSV Laboratory Data Automation
+summary: Excel and VBA-based workflow for consolidating, cleaning, and transforming laboratory data from multiple files while preserving structure and reducing manual reporting errors.
 date: 2023-10-26
 links:
   - type: site
@@ -7,9 +8,11 @@ links:
 tags:
   - VBA
   - Excel
-  - Automation
+  - CSV
+  - Reporting
+  - Data Cleaning
 ---
 
-Built an Excel VBA automation tool for laboratory workflows, enabling structured data entry, CSV processing, automated reports, and faster handling of repetitive spreadsheet tasks.
+Excel and VBA-based workflow for consolidating, cleaning, and transforming laboratory data from multiple files while preserving structure and reducing manual reporting errors.
 
 <!--more-->

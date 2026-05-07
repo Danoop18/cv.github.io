@@ -1,13 +1,15 @@
 ---
-title: Dashboard de Datos de Laboratorio
-summary: Aplicación web Streamlit para automatización de QC y reportes.
+title: Dashboard de KPI Clínicos
+summary: Concepto de dashboard interactivo para monitorear indicadores de laboratorio clínico, demanda de servicios, distribución de flujos de trabajo y desempeño operativo mediante datos estructurados.
 tags:
   - Python
   - Streamlit
-  - QC
+  - Pandas
+  - KPI
+  - Datos Clínicos
 date: '2024-01-01T00:00:00Z'
 
 
 ---
 
-Aplicación web Streamlit para automatización de QC y reportes.
+Concepto de dashboard interactivo para monitorear indicadores de laboratorio clínico, demanda de servicios, distribución de flujos de trabajo y desempeño operativo mediante datos estructurados.

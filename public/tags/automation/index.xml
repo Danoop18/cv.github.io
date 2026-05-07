@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/automation/</link>
       <atom:link href="http://localhost:1313/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     <description>Automation</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
       <title>Automation</title>
@@ -13,11 +13,19 @@
     </image>
     
     <item>
-      <title>Excel/CSV Laboratory Data Automation</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Built an Excel VBA automation tool for laboratory workflows, enabling structured data entry, CSV processing, automated reports, and faster handling of repetitive spreadsheet tasks.&lt;/p&gt;</description>
+      <title>AU480 QC Data Automation</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;Python-based automation system for extracting, cleaning, and structuring quality control data from an AU480 clinical analyzer workflow. Designed to reduce repetitive manual data handling and support laboratory performance monitoring.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Laboratory Report Consolidation Tool</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;Automation tool for consolidating laboratory reports from multiple Excel files, standardizing records, and generating cleaner outputs for operational review.&lt;/p&gt;</description>
     </item>
     
   </channel>

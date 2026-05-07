@@ -13,19 +13,19 @@
     </image>
     
     <item>
-      <title>KPI data quality laboratory</title>
+      <title>AU480 QC Data Automation</title>
       <link>http://localhost:1313/project/pytorch/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;Developed a Python automation pipeline using Selenium and Pandas to insert, analyze and extract metrics from AU480 quality control data.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Python-based automation system for extracting, cleaning, and structuring quality control data from an AU480 clinical analyzer workflow. Designed to reduce repetitive manual data handling and support laboratory performance monitoring.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>web-scraping-app-python</title>
+      <title>Laboratory Report Consolidation Tool</title>
       <link>http://localhost:1313/project/scikit/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;Developed a Python automation pipeline using Selenium and Pandas to extract, clean, store, and analyze AU480 quality control data, improving lab performance monitoring and reducing manual entry errors.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Automation tool for consolidating laboratory reports from multiple Excel files, standardizing records, and generating cleaner outputs for operational review.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -37,11 +37,11 @@
     </item>
     
     <item>
-      <title>Laboratory Data Dashboard</title>
+      <title>Clinical KPI Dashboard</title>
       <link>http://localhost:1313/project/lab-dashboard/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/lab-dashboard/</guid>
-      <description>&lt;p&gt;Streamlit web app for automated QC and reporting.&lt;/p&gt;
+      <description>&lt;p&gt;Interactive dashboard concept for monitoring clinical laboratory indicators, service demand, workflow distribution, and operational performance using structured data pipelines.&lt;/p&gt;
 </description>
     </item>
     
@@ -50,7 +50,7 @@
       <link>http://localhost:1313/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Built an Excel VBA automation tool for laboratory workflows, enabling structured data entry, CSV processing, automated reports, and faster handling of repetitive spreadsheet tasks.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Excel and VBA-based workflow for consolidating, cleaning, and transforming laboratory data from multiple files while preserving structure and reducing manual reporting errors.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -70,20 +70,20 @@
     </item>
     
     <item>
-      <title>Bioinformatics Sequence Analyzer</title>
+      <title>Molecular Diagnostics Data Structuring</title>
       <link>http://localhost:1313/project/bioinformatics-analyzer/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/bioinformatics-analyzer/</guid>
-      <description>&lt;p&gt;Tool for DNA/protein sequence analysis using Biopython.&lt;/p&gt;
+      <description>&lt;p&gt;Laboratory data structuring concept for organizing molecular diagnostics outputs into cleaner, more traceable records for review and reporting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Clinical Data Analysis Pipeline</title>
+      <title>Clinical Data Pipeline for Laboratory Reporting</title>
       <link>http://localhost:1313/project/clinical-data-pipeline/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/clinical-data-pipeline/</guid>
-      <description>&lt;p&gt;Python-based analysis of COVID-19 clinical data with statistical modeling and visualization.&lt;/p&gt;
+      <description>&lt;p&gt;Structured data pipeline concept for cleaning, organizing, and preparing clinical laboratory records for reporting and process monitoring.&lt;/p&gt;
 </description>
     </item>
     

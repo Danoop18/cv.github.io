@@ -21,11 +21,20 @@
     </item>
     
     <item>
-      <title>Dashboard de Datos de Laboratorio</title>
+      <title>Herramienta de Consolidación de Reportes de Laboratorio</title>
+      <link>http://localhost:1313/es/project/laboratory-report-consolidation/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/project/laboratory-report-consolidation/</guid>
+      <description>&lt;p&gt;Herramienta de automatización para consolidar reportes de laboratorio desde múltiples archivos Excel, estandarizar registros y generar salidas más limpias para revisión operativa.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dashboard de KPI Clínicos</title>
       <link>http://localhost:1313/es/project/lab-dashboard/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/es/project/lab-dashboard/</guid>
-      <description>&lt;p&gt;Aplicación web Streamlit para automatización de QC y reportes.&lt;/p&gt;
+      <description>&lt;p&gt;Concepto de dashboard interactivo para monitorear indicadores de laboratorio clínico, demanda de servicios, distribución de flujos de trabajo y desempeño operativo mediante datos estructurados.&lt;/p&gt;
 </description>
     </item>
     
@@ -46,20 +55,20 @@
     </item>
     
     <item>
-      <title>Analizador de Secuencias Bioinformáticas</title>
+      <title>Automatización de Datos QC AU480</title>
       <link>http://localhost:1313/es/project/bioinformatics-analyzer/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/es/project/bioinformatics-analyzer/</guid>
-      <description>&lt;p&gt;Herramienta para el análisis de secuencias de ADN/proteínas usando Biopython.&lt;/p&gt;
+      <description>&lt;p&gt;Sistema de automatización con Python para extraer, limpiar y estructurar datos de control de calidad relacionados con flujos de trabajo del analizador clínico AU480. Diseñado para reducir manipulación manual repetitiva y apoyar el monitoreo del desempeño del laboratorio.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Pipeline de Análisis de Datos Clínicos</title>
+      <title>Automatización de Datos de Laboratorio en Excel/CSV</title>
       <link>http://localhost:1313/es/project/clinical-data-pipeline/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/es/project/clinical-data-pipeline/</guid>
-      <description>&lt;p&gt;Análisis de datos clínicos de COVID-19 basado en Python con modelado estadístico y visualización.&lt;/p&gt;
+      <description>&lt;p&gt;Flujo de trabajo con Excel y VBA para consolidar, limpiar y transformar datos de laboratorio provenientes de múltiples archivos, conservando estructura y reduciendo errores manuales en reportes.&lt;/p&gt;
 </description>
     </item>
     

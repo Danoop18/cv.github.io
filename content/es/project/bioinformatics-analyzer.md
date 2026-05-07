@@ -1,12 +1,15 @@
 ---
-title: Analizador de Secuencias Bioinformáticas
-summary: Herramienta para el análisis de secuencias de ADN/proteínas usando Biopython.
+title: Automatización de Datos QC AU480
+summary: Sistema de automatización con Python para extraer, limpiar y estructurar datos de control de calidad relacionados con flujos de trabajo del analizador clínico AU480. Diseñado para reducir manipulación manual repetitiva y apoyar el monitoreo del desempeño del laboratorio.
 tags:
   - Python
-  - Bioinformática
+  - Selenium
+  - Pandas
+  - QC Clínico
+  - Automatización
 date: '2023-06-01T00:00:00Z'
 
 
 ---
 
-Herramienta para el análisis de secuencias de ADN/proteínas usando Biopython.
+Sistema de automatización con Python para extraer, limpiar y estructurar datos de control de calidad relacionados con flujos de trabajo del analizador clínico AU480. Diseñado para reducir manipulación manual repetitiva y apoyar el monitoreo del desempeño del laboratorio.

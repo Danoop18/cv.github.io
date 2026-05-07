@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selenium | Juan Hernández - CV</title>
+    <link>http://localhost:1313/tags/selenium/</link>
+      <atom:link href="http://localhost:1313/tags/selenium/index.xml" rel="self" type="application/rss+xml" />
+    <description>Selenium</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>Selenium</title>
+      <link>http://localhost:1313/tags/selenium/</link>
+    </image>
+    
+    <item>
+      <title>AU480 QC Data Automation</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;Python-based automation system for extracting, cleaning, and structuring quality control data from an AU480 clinical analyzer workflow. Designed to reduce repetitive manual data handling and support laboratory performance monitoring.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
