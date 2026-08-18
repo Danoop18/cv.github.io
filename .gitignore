@@ -1,0 +1,16 @@
+# Node dependencies
+node_modules/
+
+# Hugo generated artifacts and cache
+public/
+resources/_gen/
+.hugo_build.lock
+hugo_stats.json
+
+# Environment and IDE logs
+logs/
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
