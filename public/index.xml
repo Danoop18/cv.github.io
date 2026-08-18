@@ -1,91 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Juan Hernández - CV</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>Juan Hernández - CV</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
-      <title>Juan Hernández - CV</title>
-      <link>http://localhost:1313/</link>
-    </image>
-    
-    <item>
-      <title>AU480 QC Data Automation</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;Python-based automation system for extracting, cleaning, and structuring quality control data from an AU480 clinical analyzer workflow. Designed to reduce repetitive manual data handling and support laboratory performance monitoring.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Laboratory Report Consolidation Tool</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;Automation tool for consolidating laboratory reports from multiple Excel files, standardizing records, and generating cleaner outputs for operational review.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clinical KPI Dashboard</title>
-      <link>http://localhost:1313/project/lab-dashboard/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/lab-dashboard/</guid>
-      <description>&lt;p&gt;Interactive dashboard concept for monitoring clinical laboratory indicators, service demand, workflow distribution, and operational performance using structured data pipelines.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Excel/CSV Laboratory Data Automation</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Excel and VBA-based workflow for consolidating, cleaning, and transforming laboratory data from multiple files while preserving structure and reducing manual reporting errors.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Experience &amp; Education</title>
-      <link>http://localhost:1313/experience/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Skills &amp; Languages</title>
-      <link>http://localhost:1313/skills/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Molecular Diagnostics Data Structuring</title>
-      <link>http://localhost:1313/project/bioinformatics-analyzer/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/bioinformatics-analyzer/</guid>
-      <description>&lt;p&gt;Laboratory data structuring concept for organizing molecular diagnostics outputs into cleaner, more traceable records for review and reporting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Clinical Data Pipeline for Laboratory Reporting</title>
-      <link>http://localhost:1313/project/clinical-data-pipeline/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/clinical-data-pipeline/</guid>
-      <description>&lt;p&gt;Structured data pipeline concept for cleaning, organizing, and preparing clinical laboratory records for reporting and process monitoring.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Juan Hernández - CV</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>Juan Hernández - CV</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu_4bc81f2edf496b34.png</url><title>Juan Hernández - CV</title><link>/</link></image><item><title>Projects</title><link>/projects/</link><pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate><guid>/projects/</guid><description/></item><item><title>Automated Patient Registration Extension</title><link>/project/chrome-extension/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><guid>/project/chrome-extension/</guid><description>&lt;h3 id="problema"&gt;Problema&lt;/h3&gt;
+&lt;p&gt;Registro manual lento y propenso a errores de listas masivas de pacientes y etiquetas de muestra durante jornadas de toma de muestras empresariales.&lt;/p&gt;
+&lt;h3 id="qué-se-construyó"&gt;Qué se construyó&lt;/h3&gt;
+&lt;p&gt;Extensión y herramienta de automatización basada en web-scraping para registrar y etiquetar masivamente pacientes en sistemas de toma de muestras corporativas.&lt;/p&gt;
+&lt;h3 id="tecnología"&gt;Tecnología&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;: Lógica de interacción en cliente y manipulación del DOM.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Web Scraping / Automation&lt;/strong&gt;: Automatización de llenado de formularios y extracción de registros.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="resultado"&gt;Resultado&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Métrica&lt;/strong&gt;: Registro automatizado por web-scraping. Automatiza el registro y etiquetado masivo de pacientes en tomas de muestra empresariales. Ahorrando mas de 6 hrs de registros manuales y errores de usuario.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: Ahorro directo de tiempo de captura manual y eliminación de errores de usuario en etiquetado de muestras.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Clinical KPI Dashboard &amp; Digital Logbook</title><link>/project/lab-dashboard/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/project/lab-dashboard/</guid><description>&lt;h3 id="problema"&gt;Problema&lt;/h3&gt;
+&lt;p&gt;Registro manual descentralizado por parte de múltiples usuarios en bitácoras físicas o dispersas, dificultando la búsqueda rápida de información y la supervisión de indicadores operativos de laboratorio.&lt;/p&gt;
+&lt;h3 id="qué-se-construyó"&gt;Qué se construyó&lt;/h3&gt;
+&lt;p&gt;Concepto de dashboard interactivo y sistema de bitácora completamente digital en Streamlit para monitorear indicadores de laboratorio clínico, demanda de servicios y distribución de flujos de trabajo.&lt;/p&gt;
+&lt;h3 id="tecnología"&gt;Tecnología&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Lógica del sistema de datos y backend de análisis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Streamlit&lt;/strong&gt;: Interfaz web interactiva para visualización e ingreso de registros.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pandas&lt;/strong&gt;: Estructuración de indicadores y soporte para consultas rápidas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="resultado"&gt;Resultado&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Métrica&lt;/strong&gt;: Sistema de bitacora completamente digital, evitando el registro manual de multiples usuarios, agilizando busquedas y cotejo de registros.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: Eliminación de registros manuales duplicados, centralización del control operativo y aceleración de la toma de decisiones basada en datos.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Experience &amp; Education</title><link>/experience/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>/experience/</guid><description/></item><item><title>Skills &amp; Languages</title><link>/skills/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>/skills/</guid><description/></item><item><title>AU480 QC Data Automation</title><link>/project/au480-qc-automation/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>/project/au480-qc-automation/</guid><description>&lt;h3 id="problema"&gt;Problema&lt;/h3&gt;
+&lt;p&gt;Manipulación manual repetitiva y fragmentada de los datos de control de calidad (QC) generados por el analizador clínico AU480, lo que generaba riesgo de error humano y dificultaba el seguimiento continuo del desempeño del laboratorio.&lt;/p&gt;
+&lt;h3 id="qué-se-construyó"&gt;Qué se construyó&lt;/h3&gt;
+&lt;p&gt;Sistema de automatización con Python, Selenium y Pandas para la extracción automatizada, limpieza y estructuración de datos de control de calidad relacionados con los flujos de trabajo del analizador clínico AU480.&lt;/p&gt;
+&lt;h3 id="tecnología"&gt;Tecnología&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Lógica principal del script de procesamiento.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Selenium&lt;/strong&gt;: Extracción automatizada e interacción con portales/sistemas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pandas&lt;/strong&gt;: Limpieza, estandarización y estructuración de matrices de datos de QC.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="resultado"&gt;Resultado&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Métrica&lt;/strong&gt;: Proceso lotes semanales con mas de 100 analitos por día en un tiempo de ~1hr.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: Eliminación de manipulación manual repetitiva y mejora sustancial de la trazabilidad y confiabilidad de los datos operativos de laboratorio.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Clinical Data Pipeline &amp; Report Automation</title><link>/project/clinical-data-pipeline/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/project/clinical-data-pipeline/</guid><description>&lt;h3 id="problema"&gt;Problema&lt;/h3&gt;
+&lt;p&gt;Inconsistencias y cuellos de botella manuales en la consolidación de registros de laboratorio provenientes de múltiples archivos, lo que aumentaba el riesgo de errores en reportes operativos.&lt;/p&gt;
+&lt;h3 id="qué-se-construyó"&gt;Qué se construyó&lt;/h3&gt;
+&lt;p&gt;Evolución técnica de procesamiento de datos de laboratorio: iniciando con flujos de trabajo en Excel/VBA y migrando hacia un pipeline automatizado en Python/Pandas para consolidación, limpieza y preparación de registros clínicos.&lt;/p&gt;
+&lt;h3 id="tecnología"&gt;Tecnología&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Excel / VBA&lt;/strong&gt;: Solución inicial para automatización de formatos y consolidación básica en hojas de cálculo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python / Pandas&lt;/strong&gt;: Pipeline avanzado para limpieza, transformación, estructuración y validación técnica de datos de laboratorio.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="resultado"&gt;Resultado&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: Mejora significativa de la estructura, trazabilidad y consistencia de datos de laboratorio, reduciendo errores manuales en reportes operativos.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

@@ -26,6 +26,11 @@ sections:
       background:
         color: var(--hb-bg-color)
   - block: cta-button-list
+    design:
+      spacing:
+        padding:
+          top: "1rem"
+          bottom: "1rem"
     content:
       buttons:
         - url: /es/projects/

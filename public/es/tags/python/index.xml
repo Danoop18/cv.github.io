@@ -1,43 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Python | CV Juan Hernández</title>
-    <link>http://localhost:1313/es/tags/python/</link>
-      <atom:link href="http://localhost:1313/es/tags/python/index.xml" rel="self" type="application/rss+xml" />
-    <description>Python</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
-      <title>Python</title>
-      <link>http://localhost:1313/es/tags/python/</link>
-    </image>
-    
-    <item>
-      <title>Herramienta de Consolidación de Reportes de Laboratorio</title>
-      <link>http://localhost:1313/es/project/laboratory-report-consolidation/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/project/laboratory-report-consolidation/</guid>
-      <description>&lt;p&gt;Herramienta de automatización para consolidar reportes de laboratorio desde múltiples archivos Excel, estandarizar registros y generar salidas más limpias para revisión operativa.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Dashboard de KPI Clínicos</title>
-      <link>http://localhost:1313/es/project/lab-dashboard/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/project/lab-dashboard/</guid>
-      <description>&lt;p&gt;Concepto de dashboard interactivo para monitorear indicadores de laboratorio clínico, demanda de servicios, distribución de flujos de trabajo y desempeño operativo mediante datos estructurados.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Automatización de Datos QC AU480</title>
-      <link>http://localhost:1313/es/project/bioinformatics-analyzer/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/project/bioinformatics-analyzer/</guid>
-      <description>&lt;p&gt;Sistema de automatización con Python para extraer, limpiar y estructurar datos de control de calidad relacionados con flujos de trabajo del analizador clínico AU480. Diseñado para reducir manipulación manual repetitiva y apoyar el monitoreo del desempeño del laboratorio.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python | CV Juan Hernández</title><link>/es/tags/python/</link><atom:link href="/es/tags/python/index.xml" rel="self" type="application/rss+xml"/><description>Python</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu_4bc81f2edf496b34.png</url><title>Python</title><link>/es/tags/python/</link></image><item><title>Herramienta de Consolidación de Reportes de Laboratorio</title><link>/es/project/laboratory-report-consolidation/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>/es/project/laboratory-report-consolidation/</guid><description>&lt;h3 id="problema"&gt;Problema&lt;/h3&gt;
+&lt;p&gt;Consolidación semanal manual de indicadores y datos operativos desde múltiples hojas de cálculo independientes, lo que ocasionaba pérdidas de formato, errores en fórmulas de cálculo y consumo excesivo de tiempo operativo.&lt;/p&gt;
+&lt;h3 id="qué-se-construyó"&gt;Qué se construyó&lt;/h3&gt;
+&lt;p&gt;Herramienta de automatización para consolidar reportes de laboratorio desde múltiples archivos Excel, estandarizar registros y generar salidas limpias para revisión operativa semanal.&lt;/p&gt;
+&lt;h3 id="tecnología"&gt;Tecnología&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Lógica de procesamiento y unión de conjuntos de datos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Excel / OpenPyXL / Pandas&lt;/strong&gt;: Manipulación de libros de trabajo y formatos de reporte.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="resultado"&gt;Resultado&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Métrica&lt;/strong&gt;: Reporte semanal de KPIs semi-automatico, reduce errores de calculo, registros manuales y perdida de formato. Ahorrando mas de 8 hrs de de trabajo manual a la semana.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: Eliminación de errores de cálculo manuales, conservación de formato estandarizado y optimización directa del tiempo de trabajo semanal.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Dashboard de KPI Clínicos y Bitácora Digital</title><link>/es/project/lab-dashboard/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/es/project/lab-dashboard/</guid><description>&lt;h3 id="problema"&gt;Problema&lt;/h3&gt;
+&lt;p&gt;Registro manual descentralizado por parte de múltiples usuarios en bitácoras físicas o dispersas, dificultando la búsqueda rápida de información y la supervisión de indicadores operativos de laboratorio.&lt;/p&gt;
+&lt;h3 id="qué-se-construyó"&gt;Qué se construyó&lt;/h3&gt;
+&lt;p&gt;Dashboard interactivo y sistema de bitácora completamente digital para monitorear indicadores de laboratorio clínico, demanda de servicios, distribución de flujos de trabajo y desempeño operativo mediante datos estructurados.&lt;/p&gt;
+&lt;h3 id="tecnología"&gt;Tecnología&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Lógica del sistema de datos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Streamlit&lt;/strong&gt;: Desarrollo de la aplicación web interactiva.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pandas&lt;/strong&gt;: Estructuración de datos e indicadores.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="resultado"&gt;Resultado&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Métrica&lt;/strong&gt;: Sistema de bitacora completamente digital, evitando el registro manual de multiples usuarios, agilizando busquedas y cotejo de registros.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: Eliminación del registro manual fragmentado entre múltiples usuarios y optimización en las consultas de información.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Automatización de Datos QC AU480</title><link>/es/project/au480-qc-automation/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>/es/project/au480-qc-automation/</guid><description>&lt;h3 id="problema"&gt;Problema&lt;/h3&gt;
+&lt;p&gt;Manipulación manual repetitiva y fragmentada de los datos de control de calidad (QC) generados por el analizador clínico AU480, lo que generaba riesgo de error humano y dificultaba el seguimiento continuo del desempeño del laboratorio.&lt;/p&gt;
+&lt;h3 id="qué-se-construyó"&gt;Qué se construyó&lt;/h3&gt;
+&lt;p&gt;Sistema de automatización con Python para extraer, limpiar y estructurar datos de control de calidad relacionados con los flujos de trabajo del analizador clínico AU480, reduciendo la manipulación manual.&lt;/p&gt;
+&lt;h3 id="tecnología"&gt;Tecnología&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Procesamiento de datos de laboratorio.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Selenium&lt;/strong&gt;: Extracción e interacción automatizada.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pandas&lt;/strong&gt;: Estructuración y limpieza de conjuntos de datos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="resultado"&gt;Resultado&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Métrica&lt;/strong&gt;: Proceso lotes semanales con mas de 100 analitos por día en un tiempo de ~1hr.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: Reducción de la carga manual repetitiva y apoyo al monitoreo continuo del desempeño del laboratorio.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Pipeline de Datos Clínicos y Automatización de Reportes</title><link>/es/project/clinical-data-pipeline/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/es/project/clinical-data-pipeline/</guid><description>&lt;h3 id="problema"&gt;Problema&lt;/h3&gt;
+&lt;p&gt;Inconsistencias y cuellos de botella manuales en la consolidación de registros de laboratorio provenientes de múltiples archivos, lo que aumentaba el riesgo de errores en reportes operativos.&lt;/p&gt;
+&lt;h3 id="qué-se-construyó"&gt;Qué se construyó&lt;/h3&gt;
+&lt;p&gt;Evolución técnica de procesamiento de datos de laboratorio: iniciando con flujos de trabajo en Excel/VBA y migrando hacia un pipeline automatizado en Python/Pandas para consolidación, limpieza y transformación de datos.&lt;/p&gt;
+&lt;h3 id="tecnología"&gt;Tecnología&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Excel / VBA&lt;/strong&gt;: Solución inicial para automatización de formatos y consolidación básica.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python / Pandas&lt;/strong&gt;: Pipeline avanzado para limpieza, estructuración y validación automatizada de registros clínicos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="resultado"&gt;Resultado&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: Conservación de estructura, reducción de errores manuales en reportes y mejora de la consistencia operativa.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

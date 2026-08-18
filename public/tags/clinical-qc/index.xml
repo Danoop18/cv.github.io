@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Clinical QC | Juan Hernández - CV</title>
-    <link>http://localhost:1313/tags/clinical-qc/</link>
-      <atom:link href="http://localhost:1313/tags/clinical-qc/index.xml" rel="self" type="application/rss+xml" />
-    <description>Clinical QC</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
-      <title>Clinical QC</title>
-      <link>http://localhost:1313/tags/clinical-qc/</link>
-    </image>
-    
-    <item>
-      <title>AU480 QC Data Automation</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;Python-based automation system for extracting, cleaning, and structuring quality control data from an AU480 clinical analyzer workflow. Designed to reduce repetitive manual data handling and support laboratory performance monitoring.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Clinical QC | Juan Hernández - CV</title><link>/tags/clinical-qc/</link><atom:link href="/tags/clinical-qc/index.xml" rel="self" type="application/rss+xml"/><description>Clinical QC</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu_4bc81f2edf496b34.png</url><title>Clinical QC</title><link>/tags/clinical-qc/</link></image><item><title>AU480 QC Data Automation</title><link>/project/au480-qc-automation/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>/project/au480-qc-automation/</guid><description>&lt;h3 id="problema"&gt;Problema&lt;/h3&gt;
+&lt;p&gt;Manipulación manual repetitiva y fragmentada de los datos de control de calidad (QC) generados por el analizador clínico AU480, lo que generaba riesgo de error humano y dificultaba el seguimiento continuo del desempeño del laboratorio.&lt;/p&gt;
+&lt;h3 id="qué-se-construyó"&gt;Qué se construyó&lt;/h3&gt;
+&lt;p&gt;Sistema de automatización con Python, Selenium y Pandas para la extracción automatizada, limpieza y estructuración de datos de control de calidad relacionados con los flujos de trabajo del analizador clínico AU480.&lt;/p&gt;
+&lt;h3 id="tecnología"&gt;Tecnología&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Lógica principal del script de procesamiento.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Selenium&lt;/strong&gt;: Extracción automatizada e interacción con portales/sistemas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pandas&lt;/strong&gt;: Limpieza, estandarización y estructuración de matrices de datos de QC.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="resultado"&gt;Resultado&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Métrica&lt;/strong&gt;: Proceso lotes semanales con mas de 100 analitos por día en un tiempo de ~1hr.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: Eliminación de manipulación manual repetitiva y mejora sustancial de la trazabilidad y confiabilidad de los datos operativos de laboratorio.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

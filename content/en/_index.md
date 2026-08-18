@@ -30,7 +30,7 @@ sections:
       buttons:
         - url: /projects/
           text: View Projects
-          icon: rectangle-stack
+          icon: circle-stack
         - url: /uploads/resume.pdf
           text: Download CV
           icon: document-arrow-down

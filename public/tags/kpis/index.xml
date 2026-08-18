@@ -1,25 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>KPIs | Juan Hernández - CV</title>
-    <link>http://localhost:1313/tags/kpis/</link>
-      <atom:link href="http://localhost:1313/tags/kpis/index.xml" rel="self" type="application/rss+xml" />
-    <description>KPIs</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
-      <title>KPIs</title>
-      <link>http://localhost:1313/tags/kpis/</link>
-    </image>
-    
-    <item>
-      <title>Clinical KPI Dashboard</title>
-      <link>http://localhost:1313/project/lab-dashboard/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/lab-dashboard/</guid>
-      <description>&lt;p&gt;Interactive dashboard concept for monitoring clinical laboratory indicators, service demand, workflow distribution, and operational performance using structured data pipelines.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>KPIs | Juan Hernández - CV</title><link>/tags/kpis/</link><atom:link href="/tags/kpis/index.xml" rel="self" type="application/rss+xml"/><description>KPIs</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu_4bc81f2edf496b34.png</url><title>KPIs</title><link>/tags/kpis/</link></image><item><title>Clinical KPI Dashboard &amp; Digital Logbook</title><link>/project/lab-dashboard/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>/project/lab-dashboard/</guid><description>&lt;h3 id="problema"&gt;Problema&lt;/h3&gt;
+&lt;p&gt;Registro manual descentralizado por parte de múltiples usuarios en bitácoras físicas o dispersas, dificultando la búsqueda rápida de información y la supervisión de indicadores operativos de laboratorio.&lt;/p&gt;
+&lt;h3 id="qué-se-construyó"&gt;Qué se construyó&lt;/h3&gt;
+&lt;p&gt;Concepto de dashboard interactivo y sistema de bitácora completamente digital en Streamlit para monitorear indicadores de laboratorio clínico, demanda de servicios y distribución de flujos de trabajo.&lt;/p&gt;
+&lt;h3 id="tecnología"&gt;Tecnología&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Lógica del sistema de datos y backend de análisis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Streamlit&lt;/strong&gt;: Interfaz web interactiva para visualización e ingreso de registros.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pandas&lt;/strong&gt;: Estructuración de indicadores y soporte para consultas rápidas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="resultado"&gt;Resultado&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Métrica&lt;/strong&gt;: Sistema de bitacora completamente digital, evitando el registro manual de multiples usuarios, agilizando busquedas y cotejo de registros.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: Eliminación de registros manuales duplicados, centralización del control operativo y aceleración de la toma de decisiones basada en datos.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

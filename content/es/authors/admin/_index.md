@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Analista de Automatización y Datos para Laboratorio Clínico
+role: Ingeniero de Automatización y Datos para Laboratorio
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -139,6 +139,10 @@ languages:
 
 ---
 
-**Convierto procesos repetitivos de laboratorio en sistemas automatizados, trazables y listos para la toma de decisiones.**
 
-Profesional de laboratorio clínico especializado en diagnóstico molecular, automatización de datos y optimización de flujos de trabajo. Desarrollo herramientas con Python, Excel/VBA y análisis de datos para reducir trabajo manual repetitivo, estructurar información de laboratorio, mejorar trazabilidad y apoyar decisiones de control de calidad.
+**Acerca de mí**
+
+Soy ingeniero bioquímico y tengo un gran interés en explorar y aprovechar el potencial de la biología molecular, concretamente en la regeneración del ajolote y sus aplicaciones en medicina y biotecnología. El objetivo principal de mi investigación es descubrir los mecanismos fundamentales de la biología celular que actúan de forma sinérgica para modular el desarrollo y la regeneración de los organismos. 
+
+Tengo experiencia en biología molecular, imagen confocal, microscopía avanzada, análisis de imágenes y bioinformática, así como en el desarrollo de software para el análisis de datos clínicos.
+**Mi objetivo es aplicar estos conocimientos para resolver problemas del mundo real.**

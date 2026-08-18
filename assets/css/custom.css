@@ -2,9 +2,9 @@
 /* Accent Colors: Violet and Neon Pink */
 
 :root {
-  --hb-primary-color: #ffdd00a1; /* Neon Pink/Magenta */
-  --hb-secondary-color: #ff1fa9d1; /* Violet */
-  --hb-text-color: #e0e0e0;
+  --hb-primary-color: #63b908; /* Neon Pink/Magenta */
+  --hb-secondary-color: #ff1fa9; /* Violet */
+  --hb-text-color: #ab1c1c;
   --hb-bg-color: #121212;
 }
 

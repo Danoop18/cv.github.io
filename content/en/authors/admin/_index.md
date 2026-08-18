@@ -7,7 +7,7 @@ first_name: Juan
 last_name: Hernández
 
 # Status emoji
-status:
+status: 
   icon: 💻
 
 # Is this the primary user of the site?
@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Clinical Laboratory Automation & Data Analyst
+role: Laboratory Automation Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -141,6 +141,9 @@ languages:
 
 ---
 
-**I turn repetitive laboratory workflows into automated, traceable, and decision-ready systems.**
+**About me**
 
-Clinical laboratory professional specialized in molecular diagnostics, data automation, and workflow optimization. I build Python and Excel/VBA tools that reduce repetitive manual work, structure laboratory data, improve traceability, and support quality control decisions in clinical environments.
+I am a biochemical engineer, with deep interest in exploring and exploiting the potential of molecular biology, specifically in axolotl regeneration and its applications in medicine and biotechnology. The main goal of my research is to discover fundamental mechanisms on cell biology which work synergistically to modulate development and regeneration of organisms. 
+
+I have experience in molecular biology, confocal imaging, advanced microscopy, image analysis, and bioinformatics, as well as in the development of software for clinical data analysis.
+**My goal is to apply this knowledge to solve real-world problems.**

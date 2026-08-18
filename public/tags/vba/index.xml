@@ -1,24 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>VBA | Juan Hernández - CV</title>
-    <link>http://localhost:1313/tags/vba/</link>
-      <atom:link href="http://localhost:1313/tags/vba/index.xml" rel="self" type="application/rss+xml" />
-    <description>VBA</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
-      <title>VBA</title>
-      <link>http://localhost:1313/tags/vba/</link>
-    </image>
-    
-    <item>
-      <title>Excel/CSV Laboratory Data Automation</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Excel and VBA-based workflow for consolidating, cleaning, and transforming laboratory data from multiple files while preserving structure and reducing manual reporting errors.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>VBA | Juan Hernández - CV</title><link>/tags/vba/</link><atom:link href="/tags/vba/index.xml" rel="self" type="application/rss+xml"/><description>VBA</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu_4bc81f2edf496b34.png</url><title>VBA</title><link>/tags/vba/</link></image><item><title>Clinical Data Pipeline &amp; Report Automation</title><link>/project/clinical-data-pipeline/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/project/clinical-data-pipeline/</guid><description>&lt;h3 id="problema"&gt;Problema&lt;/h3&gt;
+&lt;p&gt;Inconsistencias y cuellos de botella manuales en la consolidación de registros de laboratorio provenientes de múltiples archivos, lo que aumentaba el riesgo de errores en reportes operativos.&lt;/p&gt;
+&lt;h3 id="qué-se-construyó"&gt;Qué se construyó&lt;/h3&gt;
+&lt;p&gt;Evolución técnica de procesamiento de datos de laboratorio: iniciando con flujos de trabajo en Excel/VBA y migrando hacia un pipeline automatizado en Python/Pandas para consolidación, limpieza y preparación de registros clínicos.&lt;/p&gt;
+&lt;h3 id="tecnología"&gt;Tecnología&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Excel / VBA&lt;/strong&gt;: Solución inicial para automatización de formatos y consolidación básica en hojas de cálculo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python / Pandas&lt;/strong&gt;: Pipeline avanzado para limpieza, transformación, estructuración y validación técnica de datos de laboratorio.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="resultado"&gt;Resultado&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: Mejora significativa de la estructura, trazabilidad y consistencia de datos de laboratorio, reduciendo errores manuales en reportes operativos.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

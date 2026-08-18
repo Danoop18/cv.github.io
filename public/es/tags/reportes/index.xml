@@ -1,25 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Reportes | CV Juan Hernández</title>
-    <link>http://localhost:1313/es/tags/reportes/</link>
-      <atom:link href="http://localhost:1313/es/tags/reportes/index.xml" rel="self" type="application/rss+xml" />
-    <description>Reportes</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
-      <title>Reportes</title>
-      <link>http://localhost:1313/es/tags/reportes/</link>
-    </image>
-    
-    <item>
-      <title>Automatización de Datos de Laboratorio en Excel/CSV</title>
-      <link>http://localhost:1313/es/project/clinical-data-pipeline/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/project/clinical-data-pipeline/</guid>
-      <description>&lt;p&gt;Flujo de trabajo con Excel y VBA para consolidar, limpiar y transformar datos de laboratorio provenientes de múltiples archivos, conservando estructura y reduciendo errores manuales en reportes.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reportes | CV Juan Hernández</title><link>/es/tags/reportes/</link><atom:link href="/es/tags/reportes/index.xml" rel="self" type="application/rss+xml"/><description>Reportes</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu_4bc81f2edf496b34.png</url><title>Reportes</title><link>/es/tags/reportes/</link></image><item><title>Pipeline de Datos Clínicos y Automatización de Reportes</title><link>/es/project/clinical-data-pipeline/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/es/project/clinical-data-pipeline/</guid><description>&lt;h3 id="problema"&gt;Problema&lt;/h3&gt;
+&lt;p&gt;Inconsistencias y cuellos de botella manuales en la consolidación de registros de laboratorio provenientes de múltiples archivos, lo que aumentaba el riesgo de errores en reportes operativos.&lt;/p&gt;
+&lt;h3 id="qué-se-construyó"&gt;Qué se construyó&lt;/h3&gt;
+&lt;p&gt;Evolución técnica de procesamiento de datos de laboratorio: iniciando con flujos de trabajo en Excel/VBA y migrando hacia un pipeline automatizado en Python/Pandas para consolidación, limpieza y transformación de datos.&lt;/p&gt;
+&lt;h3 id="tecnología"&gt;Tecnología&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Excel / VBA&lt;/strong&gt;: Solución inicial para automatización de formatos y consolidación básica.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python / Pandas&lt;/strong&gt;: Pipeline avanzado para limpieza, estructuración y validación automatizada de registros clínicos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="resultado"&gt;Resultado&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: Conservación de estructura, reducción de errores manuales en reportes y mejora de la consistencia operativa.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
