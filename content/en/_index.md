@@ -29,8 +29,14 @@ sections:
     content:
       buttons:
         - url: /projects/
-          text: View Projects
+          text: Engineering Work
           icon: circle-stack
+        - url: /project/axolotl-regeneration-research/
+          text: Research Track
+          icon: beaker
+        - url: /projects/
+          text: Personal Lab
+          icon: cpu-chip
         - url: /uploads/resume.pdf
           text: Download CV
           icon: document-arrow-down

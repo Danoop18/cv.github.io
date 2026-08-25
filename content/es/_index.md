@@ -15,7 +15,7 @@ sections:
       username: admin
       text: ""
       headings:
-        about: Resumen profesional
+        about: Resumen Profesional
         education: Formación
         interests: Especialización
       button:
@@ -34,8 +34,14 @@ sections:
     content:
       buttons:
         - url: /es/projects/
-          text: Ver proyectos
+          text: Proyectos de Ingeniería
           icon: rectangle-stack
+        - url: /es/project/axolotl-regeneration-research/
+          text: Track de Investigación
+          icon: beaker
+        - url: /es/projects/
+          text: Laboratorio Personal
+          icon: cpu-chip
         - url: /uploads/resume.pdf
           text: Descargar CV
           icon: document-arrow-down

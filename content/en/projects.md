@@ -22,11 +22,23 @@ sections:
   - block: collection
     content:
       title: Scientific & Biotechnology Research
-      text: Applied research investigating molecular mechanisms, tissue regeneration dynamics, and advanced confocal microscopy.
+      text: Applied research investigating molecular cellular mechanisms, tissue regeneration dynamics, and confocal microscopy.
       filters:
         folders:
           - project
         category: Research
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 1
+  - block: collection
+    content:
+      title: Independent Projects & Personal Lab
+      text: Independent technical projects, experiments, and systems built outside formal work — from home infrastructure and automation to computational biology and electronics.
+      filters:
+        folders:
+          - project
+        category: Personal Lab
     design:
       view: article-grid
       fill_image: false

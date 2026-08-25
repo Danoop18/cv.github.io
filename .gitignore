@@ -14,3 +14,10 @@ logs/
 # OS metadata
 .DS_Store
 Thumbs.db
+
+./CONTENT_GUIDE.md
+./CONTENT_REPORT.md
+./ARCHITECTURE_DESIGN.md
+./RESTRUCTURE_REPORT.md
+./CLEANUP_REPORT.md
+./CONTENT_AUDIT.md
