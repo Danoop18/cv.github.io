@@ -34,7 +34,7 @@ sections:
         - url: /project/axolotl-regeneration-research/
           text: Research Track
           icon: beaker
-        - url: /projects/
+        - url: /personal-lab/
           text: Personal Lab
           icon: cpu-chip
         - url: /uploads/resume.pdf

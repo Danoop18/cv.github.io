@@ -1,0 +1,80 @@
+{{/* Hugo Blox: Collection Block Override */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $view := $block.design.view | default "card" }}
+
+{{ $items_offset := $block.content.offset | default 0 }}
+{{ $items_count := $block.content.count }}
+{{ if eq $items_count 0 }}
+  {{ $items_count = 65535 }}
+{{ else }}
+  {{ $items_count = $items_count | default 5 }}
+{{ end }}
+
+{{/* Query regular pages for the current language */}}
+{{ $query := site.RegularPages }}
+{{ $archive_page := "" }}
+
+{{/* Filter by folder / section */}}
+{{ if $block.content.filters.folders }}
+  {{ $folders := $block.content.filters.folders }}
+  {{ $query = where $query "Section" "in" $folders }}
+  {{ $archive_page = site.GetPage "Section" (index $folders 0) }}
+{{ end }}
+
+{{/* Filter by tags if specified */}}
+{{ if $block.content.filters.tags }}
+  {{ $tags := $block.content.filters.tags }}
+  {{ $query = where $query "Params.tags" "intersect" $tags }}
+{{ end }}
+
+{{/* Filter by category if specified */}}
+{{ if $block.content.filters.category }}
+  {{ $cat := $block.content.filters.category }}
+  {{ $query = where $query "Params.categories" "intersect" (slice $cat) }}
+{{ end }}
+
+{{ $count := len $query }}
+
+{{/* Sort */}}
+{{ $sort_by := $block.content.sort_by | default "Date" }}
+{{ $sort_by = partial "functions/get_sort_by_parameter" $sort_by }}
+{{ $sort_ascending := $block.content.sort_ascending | default (eq $block.content.order "asc") | default false }}
+{{ $sort_order := cond $sort_ascending "asc" "desc" }}
+{{ $query = sort $query $sort_by $sort_order }}
+
+{{/* Offset and Limit */}}
+{{ if gt $items_offset 0 }}
+  {{ $query = first $items_count (after $items_offset $query) }}
+{{ else }}
+  {{ $query = first $items_count $query }}
+{{ end }}
+
+{{ $columns := $block.design.columns | default "2" }}
+
+{{ if $block.content.title }}
+<div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center px-6 md:px-0">
+  <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">
+    {{ $block.content.title | emojify | $page.RenderString }}
+  </div>
+  {{ with $block.content.text }}<p>{{ . | emojify | $page.RenderString }}</p>{{ end }}
+</div>
+{{ end }}
+
+<div class="flex flex-col items-center px-6">
+  {{ $config := dict 
+      "columns" ($block.design.columns | default 2) 
+      "len" (len $query) 
+      "fill_image" ($block.design.fill_image | default true)
+      "show_date" ($block.design.show_date | default true)
+      "show_read_time" ($block.design.show_read_time | default true)
+      "show_read_more" ($block.design.show_read_more | default true)
+    }}
+  {{ partial "functions/render_view" (dict "fragment" "start" "page" $block "item" . "view" $view "config" $config) }}
+
+  {{ range $index, $item := $query }}
+    {{ partial "functions/render_view" (dict "page" $block "item" . "view" $view "index" $index "config" $config) }}
+  {{ end }}
+
+  {{ partial "functions/render_view" (dict "fragment" "end" "page" $block "item" . "view" $view) }}
+</div>

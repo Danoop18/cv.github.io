@@ -13,6 +13,9 @@ main:
   - name: Projects
     url: projects/
     weight: 30
+  - name: Personal Lab
+    url: personal-lab/
+    weight: 35
   - name: Skills
     url: skills/
     weight: 40

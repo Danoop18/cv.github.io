@@ -8,6 +8,9 @@ main:
   - name: Proyectos
     url: projects/
     weight: 30
+  - name: Laboratorio Personal
+    url: personal-lab/
+    weight: 35
   - name: Habilidades
     url: skills/
     weight: 40
