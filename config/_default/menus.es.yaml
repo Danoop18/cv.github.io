@@ -3,14 +3,15 @@ main:
     url: /
     weight: 10
   - name: Experiencia
-    url: experience/
+    url: /experience/
     weight: 20
   - name: Proyectos
-    url: projects/
+    url: /projects/
     weight: 30
   - name: Laboratorio Personal
-    url: personal-lab/
+    url: /personal-lab/
     weight: 35
   - name: Habilidades
-    url: skills/
+    url: /skills/
     weight: 40
+
