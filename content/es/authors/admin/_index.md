@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ingeniero de Automatización y Datos para Laboratorio
+role: Ingeniero de Automatización de Laboratorio
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -139,10 +139,10 @@ languages:
 
 ---
 
-
 **Acerca de mí**
 
-Soy ingeniero bioquímico y tengo un gran interés en explorar y aprovechar el potencial de la biología molecular, concretamente en la regeneración del ajolote y sus aplicaciones en medicina y biotecnología. El objetivo principal de mi investigación es descubrir los mecanismos fundamentales de la biología celular que actúan de forma sinérgica para modular el desarrollo y la regeneración de los organismos. 
+Soy un profesional de laboratorio con formación en biotecnología que desarrolla herramientas de software, automatiza flujos de datos y convierte procesos manuales repetitivos en sistemas reproducibles y trazables.
 
-Tengo experiencia en biología molecular, imagen confocal, microscopía avanzada, análisis de imágenes y bioinformática, así como en el desarrollo de software para el análisis de datos clínicos.
-**Mi objetivo es aplicar estos conocimientos para resolver problemas del mundo real.**
+Actualmente trabajo en diagnóstico clínico en Hospital MAC, donde identifico cuellos de botella operativos y los resuelvo mediante automatización: desde pipelines de datos de control de calidad hasta bitácoras digitales y herramientas de registro masivo de pacientes. Mi formación en ingeniería bioquímica y biotecnología de plantas en CINVESTAV me da una comprensión del laboratorio desde adentro: conozco el proceso que automatizo, no solo el código.
+
+Mi objetivo es aplicar esta combinación — conocimiento de laboratorio y capacidad de ingeniería — en organizaciones donde los datos confiables y los flujos de trabajo eficientes marcan una diferencia medible.

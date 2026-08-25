@@ -1,26 +1,44 @@
 ---
 title: Herramienta de Consolidación de Reportes de Laboratorio
-summary: Herramienta de reporte semanal de KPIs semi-automático para consolidar datos de múltiples fuentes, reducir errores de cálculo, evitar pérdida de formato y ahorrar más de 8 horas de trabajo manual a la semana.
+summary: Herramienta de automatización en Python que consolida datos semanales de múltiples fuentes Excel en una salida limpia y consistente, reduciendo errores de cálculo, formateo manual y ahorrando más de 8 horas de trabajo manual a la semana.
 tags:
   - Python
   - Excel
   - KPIs
   - Automatización
-  - Consolidación de Datos
+  - Consolidación de Reportes
+categories:
+  - Engineering
 date: '2024-02-01T00:00:00Z'
-metric: "Reporte semanal de KPIs semi-automatico, reduce errores de calculo, registros manuales y perdida de formato. Ahorrando mas de 8 hrs de de trabajo manual a la semana."
+metric: "Ahorra más de 8 horas de trabajo manual a la semana mediante la semi-automatización del reporte semanal de KPIs"
 ---
 
 ### Problema
-Consolidación semanal manual de indicadores y datos operativos desde múltiples hojas de cálculo independientes, lo que ocasionaba pérdidas de formato, errores en fórmulas de cálculo y consumo excesivo de tiempo operativo.
+
+Los reportes semanales de KPIs requerían extraer datos manualmente de múltiples archivos Excel, aplicar fórmulas entre hojas y reformatear la salida para que coincidiera con una estructura estándar — cada semana. El proceso era lento, y cualquier error en una fórmula o desviación de formato introducía inconsistencias que había que encontrar y corregir antes de distribuir el reporte.
 
 ### Qué se construyó
-Herramienta de automatización para consolidar reportes de laboratorio desde múltiples archivos Excel, estandarizar registros y generar salidas limpias para revisión operativa semanal.
+
+Una herramienta de automatización en Python que lee datos de los archivos Excel fuente, consolida registros, aplica los cálculos requeridos y escribe la salida en una estructura consistente y preformateada, lista para revisión. El proceso que antes tomaba horas de trabajo manual corre en minutos.
 
 ### Tecnología
-- **Python**: Lógica de procesamiento y unión de conjuntos de datos.
-- **Excel / OpenPyXL / Pandas**: Manipulación de libros de trabajo y formatos de reporte.
+
+- **Python**: Lógica principal de procesamiento de datos y generación de salidas.
+- **Pandas / OpenPyXL**: Carga de múltiples archivos, unión, cálculo y generación de salida Excel estructurada.
+- **Excel**: Formato de los datos fuente y del reporte final.
+
+### Cómo funciona
+
+1. Los archivos fuente de la semana se colocan en el directorio de entrada designado.
+2. El script carga y une registros de todos los archivos, valida la consistencia de campos y aplica los cálculos de KPIs.
+3. Un reporte Excel limpio y consistentemente formateado se escribe en el directorio de salida, listo para revisión y distribución.
 
 ### Resultado
-- **Métrica**: Reporte semanal de KPIs semi-automatico, reduce errores de calculo, registros manuales y perdida de formato. Ahorrando mas de 8 hrs de de trabajo manual a la semana.
-- **Impacto**: Eliminación de errores de cálculo manuales, conservación de formato estandarizado y optimización directa del tiempo de trabajo semanal.
+
+- **Métrica**: Ahorra más de 8 horas de trabajo manual a la semana mediante la semi-automatización del reporte semanal de KPIs.
+- **Impacto**: Los errores de cálculo por ingreso manual de fórmulas fueron eliminados. El formato del reporte es consistente cada semana sin importar quién lo prepare. El tiempo del personal se redirige del ensamblaje del reporte al análisis y la toma de decisiones.
+
+### Evidencia
+
+- Herramienta en uso activo en el laboratorio clínico de Hospital MAC.
+- Código mantenido en repositorio privado.

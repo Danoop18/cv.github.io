@@ -143,7 +143,8 @@ languages:
 
 **About me**
 
-I am a biochemical engineer, with deep interest in exploring and exploiting the potential of molecular biology, specifically in axolotl regeneration and its applications in medicine and biotechnology. The main goal of my research is to discover fundamental mechanisms on cell biology which work synergistically to modulate development and regeneration of organisms. 
+I am a laboratory professional with a background in biotechnology who builds software tools, automates data workflows, and turns repetitive manual processes into reproducible, traceable systems.
 
-I have experience in molecular biology, confocal imaging, advanced microscopy, image analysis, and bioinformatics, as well as in the development of software for clinical data analysis.
-**My goal is to apply this knowledge to solve real-world problems.**
+I currently work in clinical laboratory diagnostics at Hospital MAC, where I identify operational bottlenecks and solve them through automation — from quality control data pipelines to digital logbooks and batch patient registration tools. My training in biochemical engineering and plant biotechnology at CINVESTAV gives me an inside understanding of laboratory work: I know the process I am automating, not just the code.
+
+My goal is to apply this combination — laboratory knowledge and engineering capability — to organizations where reliable data and efficient workflows make a measurable difference.

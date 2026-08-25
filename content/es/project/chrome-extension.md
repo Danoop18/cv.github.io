@@ -1,25 +1,40 @@
 ---
-title: Extensión para Registro Automatizado de Pacientes
-summary: Registro automatizado por web-scraping para el registro y etiquetado masivo de pacientes en tomas de muestra empresariales, ahorrando más de 6 horas de registros manuales y reduciendo errores de usuario.
+title: Herramienta de Registro Automatizado de Pacientes
+summary: Herramienta de automatización web que gestiona el registro masivo de pacientes y el etiquetado de muestras en tomas empresariales, ahorrando más de 6 horas de captura manual por sesión y eliminando errores de etiquetado.
 tags:
   - JavaScript
-  - Web Scraping
-  - Automatización
+  - Automatización Web
   - Registro de Pacientes
+categories:
+  - Engineering
 date: '2024-03-01T00:00:00Z'
-metric: "Registro automatizado por web-scraping. Automatiza el registro y etiquetado masivo de pacientes en tomas de muestra empresariales. Ahorrando mas de 6 hrs de registros manuales y errores de usuario."
+metric: "Ahorra más de 6 horas de registro manual por sesión de toma empresarial y elimina errores de etiquetado"
 ---
 
 ### Problema
-Registro manual lento y propenso a errores de listas masivas de pacientes y etiquetas de muestra durante jornadas de toma de muestras empresariales.
+
+Las jornadas de toma de muestras empresariales requerían registrar listas extensas de pacientes e imprimir contenedores etiquetados en un tiempo reducido. Hacerlo manualmente a través del sistema web existente era lento, propenso a errores y ocupaba al personal durante horas en cada evento de recolección. Un error tipográfico en el registro de un paciente o un contenedor mal etiquetado tenía consecuencias para la identificación de la muestra.
 
 ### Qué se construyó
-Herramienta de automatización basada en web-scraping para automatizar el registro y etiquetado masivo de pacientes en el sistema de tomas de muestra.
+
+Una herramienta de automatización web que procesa listas de pacientes en lote e interactúa automáticamente con el sistema de registro: llenando formularios, enviando registros y disparando la generación de etiquetas sin captura manual por cada paciente.
 
 ### Tecnología
-- **JavaScript**: Automatización web y scripting.
-- **Web Scraping**: Extracción y llenado automatizado de campos de registro.
+
+- **JavaScript**: Scripting del lado del cliente e interacción con el DOM para automatización de formularios.
+- **Automatización web**: Llenado automático de formularios, envío de registros y activación de etiquetas sobre la interfaz web existente.
+
+### Cómo funciona
+
+1. Se prepara una lista de pacientes (nombre, ID, tipo de servicio) y se carga en la herramienta.
+2. La automatización itera por la lista, llena el formulario de registro para cada paciente, envía el registro y dispara la generación de etiquetas.
+3. El proceso corre de forma continua sin intervención manual hasta completar el lote completo.
 
 ### Resultado
-- **Métrica**: Registro automatizado por web-scraping. Automatiza el registro y etiquetado masivo de pacientes en tomas de muestra empresariales. Ahorrando mas de 6 hrs de registros manuales y errores de usuario.
-- **Impacto**: Ahorro de más de 6 horas de registros manuales por jornada y eliminación de errores de usuario en tomas de muestra corporativas.
+
+- **Métrica**: Ahorra más de 6 horas de registro manual por sesión de toma empresarial y elimina errores de etiquetado de usuario.
+- **Impacto**: El personal se redirige de la captura de datos a la atención directa al paciente durante los eventos de recolección. El riesgo de confusión entre paciente y etiqueta por errores de captura manual se eliminó para la porción automatizada del proceso.
+
+### Evidencia
+
+- Herramienta en uso activo para jornadas empresariales en Hospital MAC.

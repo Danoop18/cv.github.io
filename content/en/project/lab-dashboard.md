@@ -1,27 +1,44 @@
 ---
-title: Clinical KPI Dashboard & Digital Logbook
-summary: Interactive Streamlit dashboard providing a fully digital logbook system that eliminates manual multi-user entry and accelerates record lookup.
+title: Clinical Laboratory KPI Dashboard & Digital Logbook
+summary: Streamlit-based digital logbook and KPI dashboard that replaced multi-user manual record entry, making laboratory data searchable and comparable in real time.
 tags:
   - Python
   - Streamlit
   - Pandas
   - KPIs
   - Digital Logbook
+categories:
+  - Engineering
 date: '2024-01-01T00:00:00Z'
-metric: "Sistema de bitacora completamente digital, evitando el registro manual de multiples usuarios, agilizando busquedas y cotejo de registros"
+metric: "Fully digital logbook system — eliminates manual multi-user entry and accelerates record lookup and cross-referencing"
 ---
 
-### Problema
-Registro manual descentralizado por parte de múltiples usuarios en bitácoras físicas o dispersas, dificultando la búsqueda rápida de información y la supervisión de indicadores operativos de laboratorio.
+### Problem
 
-### Qué se construyó
-Concepto de dashboard interactivo y sistema de bitácora completamente digital en Streamlit para monitorear indicadores de laboratorio clínico, demanda de servicios y distribución de flujos de trabajo.
+Laboratory records were maintained across physical logbooks and disconnected spreadsheets updated by multiple staff members. Searching for a specific record meant going through pages manually. Cross-referencing across dates, analysts, or services was not feasible in daily operation. There was no single place to see what was happening across the lab on a given day.
 
-### Tecnología
-- **Python**: Lógica del sistema de datos y backend de análisis.
-- **Streamlit**: Interfaz web interactiva para visualización e ingreso de registros.
-- **Pandas**: Estructuración de indicadores y soporte para consultas rápidas.
+### What was built
 
-### Resultado
-- **Métrica**: Sistema de bitacora completamente digital, evitando el registro manual de multiples usuarios, agilizando busquedas y cotejo de registros.
-- **Impacto**: Eliminación de registros manuales duplicados, centralización del control operativo y aceleración de la toma de decisiones basada en datos.
+An interactive Streamlit application that serves as both a structured digital logbook and an operational KPI dashboard. Staff enter records through a form interface; the application stores, organizes, and displays the data in a way that makes lookup, filtering, and comparison immediate.
+
+### Technology
+
+- **Python**: Backend data logic and application structure.
+- **Streamlit**: Web-based interactive interface for data entry and visualization.
+- **Pandas**: Data structuring, filtering, and KPI aggregation.
+
+### How it works
+
+1. Laboratory staff enter records through a structured form in the web interface (service type, analyst, result, date, notes).
+2. Entries are stored and indexed so that any record can be retrieved by date, analyst, or service without scrolling through physical pages.
+3. The dashboard layer aggregates entries into operational KPIs: daily volume by service, QC pass rates, workload distribution across analysts.
+
+### Result
+
+- **Metric**: Fully digital logbook system — eliminates manual multi-user entry and accelerates record lookup and cross-referencing.
+- **Impact**: The lab no longer runs parallel physical and digital records. Data entered once is immediately queryable. Decision-making based on operational trends became possible without manual report preparation.
+
+### Evidence
+
+- Deployed in the clinical laboratory at Hospital MAC.
+- Code maintained in private repository.

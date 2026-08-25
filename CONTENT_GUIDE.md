@@ -165,9 +165,8 @@ El sitio mantiene el principio: **mismo portfolio en ambos idiomas, distinto én
 
 ### Traducciones Pendientes Activas
 
-| Proyecto | Existe en EN | Existe en ES | Pendiente | Fase objetivo |
-| :--- | :---: | :---: | :--- | :--- |
-| `laboratory-report-consolidation` | ❌ | ✅ | Crear `content/en/project/laboratory-report-consolidation.md` | Fase 2D (Copywriting) |
-| `chrome-extension` | ✅ | ✅ | — | Completo |
+| Proyecto | Existe en EN | Existe en ES | Estado |
+| :--- | :---: | :---: | :--- |
+| *Ninguna* | — | — | **Paridad 100% alcanzada en Fase 3** (Todos los proyectos cuentan con versión EN y ES). |
 
-> **Instrucción**: Al completar una traducción pendiente, eliminar su fila de esta tabla y commitear el cambio con mensaje `"content: add EN translation of <nombre-proyecto>"`.
+> **Instrucción**: Si en el futuro se añade un nuevo proyecto en un solo idioma, registrar aquí la fila correspondiente especificando el archivo pendiente.
