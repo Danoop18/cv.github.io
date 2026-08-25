@@ -11,7 +11,7 @@ categories:
   - Engineering
 date: '2023-06-01T00:00:00Z'
 aliases:
-  - /es/project/bioinformatics-analyzer/
+  - /project/bioinformatics-analyzer/
 metric: "Procesa lotes semanales con más de 100 analitos por día en aproximadamente 1 hora"
 ---
 
