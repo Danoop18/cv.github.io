@@ -9,6 +9,7 @@ design:
 sections:
   - block: resume-experience
     content:
+      title: Experiencia
       username: admin
     design:
       date_format: 'January 2006'
