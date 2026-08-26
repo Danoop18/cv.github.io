@@ -19,7 +19,7 @@ sections:
         education: Formación
         interests: Especialización
       button:
-        url: /uploads/resume.pdf
+        url: ../uploads/resume.pdf
         text: Descargar CV
     design:
       css_class: dark
@@ -33,16 +33,16 @@ sections:
           bottom: "1rem"
     content:
       buttons:
-        - url: /es/projects/
+        - url: projects/
           text: Proyectos de Ingeniería
           icon: rectangle-stack
-        - url: /es/project/axolotl-regeneration-research/
+        - url: project/axolotl-regeneration-research/
           text: Track de Investigación
           icon: beaker
-        - url: /es/personal-lab/
+        - url: personal-lab/
           text: Laboratorio Personal
           icon: cpu-chip
-        - url: /uploads/resume.pdf
+        - url: ../uploads/resume.pdf
           text: Descargar CV
           icon: document-arrow-down
         - url: mailto:juan.hdz.9718@gmail.com

@@ -19,7 +19,7 @@ sections:
         education: Education
         interests: Core Focus
       button:
-        url: /uploads/resume.pdf
+        url: uploads/resume.pdf
         text: Download CV
     design:
       css_class: dark
@@ -28,16 +28,16 @@ sections:
   - block: cta-button-list
     content:
       buttons:
-        - url: /projects/
+        - url: projects/
           text: Engineering Work
           icon: circle-stack
-        - url: /project/axolotl-regeneration-research/
+        - url: project/axolotl-regeneration-research/
           text: Research Track
           icon: beaker
-        - url: /personal-lab/
+        - url: personal-lab/
           text: Personal Lab
           icon: cpu-chip
-        - url: /uploads/resume.pdf
+        - url: uploads/resume.pdf
           text: Download CV
           icon: document-arrow-down
         - url: mailto:juan.hdz.9718@gmail.com
