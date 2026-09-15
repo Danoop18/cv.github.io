@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home Assistant | Juan Hernández - CV</title>
+    <link>http://localhost:1313/en/tags/home-assistant/</link>
+      <atom:link href="http://localhost:1313/en/tags/home-assistant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Home Assistant</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>Home Assistant</title>
+      <link>http://localhost:1313/en/tags/home-assistant/</link>
+    </image>
+    
+    <item>
+      <title>Server Infrastructure and Home Automation</title>
+      <link>http://localhost:1313/en/project/home-lab-infrastructure/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/project/home-lab-infrastructure/</guid>
+      <description>&lt;h3 id=&#34;status&#34;&gt;Status&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Personal/In Development&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;general-description&#34;&gt;General Description&lt;/h3&gt;
+&lt;p&gt;Personal lab infrastructure configured on low-power hardware (Raspberry Pi / Linux node) to self-host local network services, automation routines, and sensor data ingestion.&lt;/p&gt;
+&lt;h3 id=&#34;current-services&#34;&gt;Current Services&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Pi-Hole&lt;/li&gt;
+&lt;li&gt;Unbound&lt;/li&gt;
+&lt;li&gt;Nginx&lt;/li&gt;
+&lt;li&gt;MQTT&lt;/li&gt;
+&lt;li&gt;Lightweight dashboard&lt;/li&gt;
+&lt;li&gt;Custom scripts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;div style=&#34;display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/uploads/Homelab_2.png&#34; alt=&#34;Servicio 1&#34; style=&#34;width: 100%; border-radius: 15px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/uploads/Homelab_1.png&#34; alt=&#34;Servicio 2&#34; style=&#34;width: 100%; border-radius: 15px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/uploads/Homelab_3.png&#34; alt=&#34;Servicio 3&#34; style=&#34;width: 100%; border-radius: 15px;&#34;&gt;
+&lt;/div&gt;   
+&lt;h2&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;architecture-and-tools&#34;&gt;Architecture and Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Home Assistant&lt;/strong&gt;: Central automation hub for device control and monitoring.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Docker&lt;/strong&gt;: Containerized service isolation for local utilities and network tools. - &lt;strong&gt;Linux / Raspberry Pi&lt;/strong&gt;: Low-power server running 24/7.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;focus&#34;&gt;Focus&lt;/h3&gt;
+&lt;p&gt;Local data privacy, system reliability, and automated alerts for home network metrics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

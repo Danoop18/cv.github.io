@@ -1,0 +1,5 @@
+# Netlify redirects
+# Automatically generated
+# Documentation: https://docs.netlify.com/routing/redirects/
+/en/project/bioinformatics-analyzer /en/project/au480-qc-automation/
+/project/bioinformatics-analyzer /project/au480-qc-automation/

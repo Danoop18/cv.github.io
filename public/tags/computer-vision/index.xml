@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Computer Vision | Juan Hernández - CV</title><link>/tags/computer-vision/</link><atom:link href="/tags/computer-vision/index.xml" rel="self" type="application/rss+xml"/><description>Computer Vision</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu_4bc81f2edf496b34.png</url><title>Computer Vision</title><link>/tags/computer-vision/</link></image><item><title>Cellpose &amp; Bioimage Analysis Experiments</title><link>/project/bioimage-cellpose-experiments/</link><pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate><guid>/project/bioimage-cellpose-experiments/</guid><description>&lt;h3 id="status"&gt;Status&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Experimental&lt;/code&gt; / &lt;code&gt;Prototype&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id="overview"&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Personal computational biology experiments testing deep learning-based cell segmentation tools (Cellpose) for quantitative analysis of fluorescence and confocal microscopy images.&lt;/p&gt;
+&lt;h3 id="technical-scope"&gt;Technical Scope&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python &amp;amp; Cellpose&lt;/strong&gt;: Evaluation of pre-trained cellular segmentation models on microscopy images.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Image Processing&lt;/strong&gt;: Batch feature extraction (cell area, signal intensity distribution, count).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jupyter Notebooks&lt;/strong&gt;: Exploratory data analysis and visualization pipelines.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="focus"&gt;Focus&lt;/h3&gt;
+&lt;p&gt;Assessing segmentation accuracy and automated cell counting workflows for bioimaging research datasets.&lt;/p&gt;</description></item></channel></rss>

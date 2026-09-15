@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Termux | Juan Hernández - CV</title>
+    <link>http://localhost:1313/en/tags/termux/</link>
+      <atom:link href="http://localhost:1313/en/tags/termux/index.xml" rel="self" type="application/rss+xml" />
+    <description>Termux</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>Termux</title>
+      <link>http://localhost:1313/en/tags/termux/</link>
+    </image>
+    
+    <item>
+      <title>Automation in a Mobile Environment with Termux</title>
+      <link>http://localhost:1313/en/project/android-termux-automation/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/project/android-termux-automation/</guid>
+      <description>&lt;h3 id=&#34;status&#34;&gt;Status&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Unvalidated prototype&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;general-description&#34;&gt;General Description&lt;/h3&gt;
+&lt;p&gt;A custom command-line environment and script suite for Android devices leveraging Termux to enable lightweight background automation, remote task execution, and status checks for homelab servers and traditional home automation systems.&lt;/p&gt;
+&lt;h3 id=&#34;technical-scope&#34;&gt;Technical Scope&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Termux and POSIX Shell&lt;/strong&gt;: Lightweight Linux environment running directly on mobile hardware.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python and Bash&lt;/strong&gt;: Background scripts, SSH key management, and API queries.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Remote Utilities&lt;/strong&gt;: Quick status checks and emergency control scripts accessible from anywhere.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;approach&#34;&gt;Approach&lt;/h3&gt;
+&lt;p&gt;Repurposing mobile hardware as low-power, portable nodes for personal workflows.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

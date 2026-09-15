@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KPIs | Juan Hernández - CV</title>
+    <link>http://localhost:1313/en/tags/kpis/</link>
+      <atom:link href="http://localhost:1313/en/tags/kpis/index.xml" rel="self" type="application/rss+xml" />
+    <description>KPIs</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>KPIs</title>
+      <link>http://localhost:1313/en/tags/kpis/</link>
+    </image>
+    
+    <item>
+      <title>Laboratory Report Consolidation Tool</title>
+      <link>http://localhost:1313/en/project/laboratory-report-consolidation/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/project/laboratory-report-consolidation/</guid>
+      <description>&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;
+&lt;p&gt;Weekly KPI reports required manually extracting data from multiple Excel files, applying formulas across worksheets, and reformatting the output to match a standard structure—every single week. The process was slow, and any formula error or formatting deviation introduced inconsistencies that had to be identified and corrected before the report could be distributed.&lt;/p&gt;
+&lt;h3 id=&#34;what-was-built&#34;&gt;What Was Built&lt;/h3&gt;
+&lt;p&gt;A Python-based automation tool that reads data from source Excel files, consolidates records, performs the required calculations, and writes the output into a consistent, pre-formatted structure ready for review. A process that previously took hours of manual work now runs in minutes.&lt;/p&gt;
+&lt;h3 id=&#34;technology&#34;&gt;Technology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Core logic for data processing and output generation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pandas / OpenPyXL&lt;/strong&gt;: Loading multiple files, merging data, performing calculations, and generating structured Excel output.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Excel&lt;/strong&gt;: Format for source data and the final report.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-it-works&#34;&gt;How It Works&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;The week&amp;rsquo;s source files are placed in the designated input directory.&lt;/li&gt;
+&lt;li&gt;The script loads and merges records from all files, validates field consistency, and applies KPI calculations.&lt;/li&gt;
+&lt;li&gt;A clean, consistently formatted Excel report is written to the output directory, ready for review and distribution.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Metric&lt;/strong&gt;: Saves over 8 hours of manual work per week through the semi-automation of weekly KPI reporting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Calculation errors caused by manual formula entry were eliminated. Report formatting is consistent every week, regardless of who prepares it. Staff time is redirected from report assembly to analysis and decision-making.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;evidence&#34;&gt;Evidence&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tool currently in active use at the Hospital MAC clinical laboratory.&lt;/li&gt;
+&lt;li&gt;Code maintained in a private repository.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/QC_registrator/inicio.png&#34; alt=&#34;Pagina Inicial&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/QC_registrator/Configurar.png&#34; alt=&#34;Pagina Configuración&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/QC_registrator/Registro.png&#34; alt=&#34;Motor trabajando&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clinical KPI Dashboard and Digital Log</title>
+      <link>http://localhost:1313/en/project/lab-dashboard/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/project/lab-dashboard/</guid>
+      <description>&lt;h3 id=&#34;status&#34;&gt;Status&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Not implemented&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;
+&lt;p&gt;Laboratory records are currently maintained in physical logbooks and disconnected spreadsheets updated by multiple individuals. Searching for a specific record requires manually flipping through pages. Cross-referencing data across dates, analysts, or services is not feasible during daily operations. There is no single location to view current laboratory activity at any given moment.&lt;/p&gt;
+&lt;h3 id=&#34;what-was-built&#34;&gt;What was built&lt;/h3&gt;
+&lt;p&gt;An interactive Streamlit application serving as both a structured digital logbook and an operational KPI dashboard, with the potential to expand into a full operational LIMS. Staff enter records via an intuitive, comprehensive form interface; the application stores, organizes, and displays data, enabling immediate searching, filtering, and comparison without unnecessary page reloads.&lt;/p&gt;
+&lt;h3 id=&#34;technology&#34;&gt;Technology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Backend data logic and application structure.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Streamlit&lt;/strong&gt;: Interactive web interface for data entry and visualization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pandas&lt;/strong&gt;: Structuring, filtering, and KPI aggregation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-it-works&#34;&gt;How it works&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Laboratory staff enter daily records using a structured form on the web interface (service type, analyst, result, date, observations).&lt;/li&gt;
+&lt;li&gt;Entries are stored and indexed so that any record can be retrieved by date, analyst, or service without reviewing physical pages.&lt;/li&gt;
+&lt;li&gt;The dashboard layer aggregates entries into operational KPIs: daily volume by service, QC pass rates, and workload distribution among analysts.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;outcome&#34;&gt;Outcome&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Metric&lt;/strong&gt;: Fully digital logbook system — eliminates manual logging by multiple users and streamlines record searching and cross-referencing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;: The laboratory would no longer need to maintain parallel physical and digital records. Data entered once becomes immediately queryable. Decision-making based on operational trends becomes possible without the need for manual report preparation. ### Evidence&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;del&gt;Deployed at the Hospital MAC clinical laboratory&lt;/del&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Code maintained in a private repository.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

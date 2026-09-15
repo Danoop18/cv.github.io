@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Lab | CV Juan Hernández</title>
+    <link>http://localhost:1313/categories/personal-lab/</link>
+      <atom:link href="http://localhost:1313/categories/personal-lab/index.xml" rel="self" type="application/rss+xml" />
+    <description>Personal Lab</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>Personal Lab</title>
+      <link>http://localhost:1313/categories/personal-lab/</link>
+    </image>
+    
+    <item>
+      <title>Infraestructura de Servidor y Automatización Doméstica</title>
+      <link>http://localhost:1313/project/home-lab-infrastructure/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/home-lab-infrastructure/</guid>
+      <description>&lt;h3 id=&#34;estado&#34;&gt;Estado&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Personal/En Desarrollo&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;descripción-general&#34;&gt;Descripción General&lt;/h3&gt;
+&lt;p&gt;Infraestructura de laboratorio personal configurada en hardware de bajo consumo (Raspberry Pi / nodo Linux) para auto-hospedar servicios de red local, rutinas de automatización e ingesta de datos de sensores.&lt;/p&gt;
+&lt;h3 id=&#34;servicios-actuales&#34;&gt;Servicios actuales&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Pi-Hole&lt;/li&gt;
+&lt;li&gt;Unbound&lt;/li&gt;
+&lt;li&gt;Nginx&lt;/li&gt;
+&lt;li&gt;Mqtt&lt;/li&gt;
+&lt;li&gt;Dashboard ligero&lt;/li&gt;
+&lt;li&gt;Scripts Personalizados&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;div style=&#34;display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/uploads/Homelab_2.png&#34; alt=&#34;Servicio 1&#34; style=&#34;width: 100%; border-radius: 15px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/uploads/Homelab_1.png&#34; alt=&#34;Servicio 2&#34; style=&#34;width: 100%; border-radius: 15px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/uploads/Homelab_3.png&#34; alt=&#34;Servicio 3&#34; style=&#34;width: 100%; border-radius: 15px;&#34;&gt;
+&lt;/div&gt;   
+&lt;!-- &lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&#34;Screenshot_20260912_123827_Samsung Browser.png&#34; alt=&#34;Servicio 1&#34;&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;img src=&#34;Screenshot_20260912_123840_Samsung Browser.png&#34; alt=&#34;Servicio 2&#34;&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;img src=&#34;Screenshot_20260912_123818_Samsung Browser.png&#34; alt=&#34;Servicio 3&#34;&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;    --&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;arquitectura-y-herramientas&#34;&gt;Arquitectura y Herramientas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Home Assistant&lt;/strong&gt;: Hub central de automatización para control de dispositivos y monitoreo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Docker&lt;/strong&gt;: Aislamiento de servicios en contenedores para utilidades locales y herramientas de red.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linux / Raspberry Pi&lt;/strong&gt;: Servidor de bajo consumo operando 24/7.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;enfoque&#34;&gt;Enfoque&lt;/h3&gt;
+&lt;p&gt;Privacidad de datos locales, confiabilidad del sistema y alertas automatizadas para métricas de red doméstica.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experimentos de Análisis de Bioimágenes con Cellpose</title>
+      <link>http://localhost:1313/project/bioimage-cellpose-experiments/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/bioimage-cellpose-experiments/</guid>
+      <description>&lt;h3 id=&#34;estado&#34;&gt;Estado&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Experimental&lt;/code&gt;/&lt;code&gt;Prototipo&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;descripción-general&#34;&gt;Descripción General&lt;/h3&gt;
+&lt;p&gt;Experimentos personales de biología computacional evaluando herramientas de segmentación celular basadas en aprendizaje profundo (Cellpose) para análisis cuantitativo de imágenes de microscopía confocal y fluorescencia.&lt;/p&gt;
+&lt;h3 id=&#34;alcance-técnico&#34;&gt;Alcance Técnico&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python y Cellpose&lt;/strong&gt;: Evaluación de modelos pre-entrenados de segmentación celular sobre imágenes de microscopía confocal.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Procesamiento de Imágenes&lt;/strong&gt;: Extracción de características en lote (área celular, intensidad de señal, conteo).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cuadernos Jupyter&lt;/strong&gt;: Pipelines exploratorios de análisis y visualización de datos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;enfoque&#34;&gt;Enfoque&lt;/h3&gt;
+&lt;p&gt;Evaluación de la precisión de segmentación y automatización de flujos de conteo celular para conjuntos de datos de bioimágenes.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/MPO_imagen.webp&#34; alt=&#34;alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatización en Entorno Móvil con Termux</title>
+      <link>http://localhost:1313/project/android-termux-automation/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/android-termux-automation/</guid>
+      <description>&lt;h3 id=&#34;estado&#34;&gt;Estado&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Prototipo sin validar&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;descripción-general&#34;&gt;Descripción General&lt;/h3&gt;
+&lt;p&gt;Entorno de línea de comandos personalizado y scripts en dispositivos Android que pretende utilizar Termux para habilitar automatización ligera en segundo plano, ejecución remota de tareas y verificaciones de servidor homelab y domotica clasica&lt;/p&gt;
+&lt;h3 id=&#34;alcance-técnico&#34;&gt;Alcance Técnico&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Termux y Shell POSIX&lt;/strong&gt;: Entorno Linux ligero ejecutándose directamente en hardware móvil.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python y Bash&lt;/strong&gt;: Scripts programados en segundo plano, gestión de llaves SSH y consultas a APIs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Utilidades Remotas&lt;/strong&gt;: Verificaciones rápidas de estado y scripts de control de emergencia accesibles desde cualquier lugar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;enfoque&#34;&gt;Enfoque&lt;/h3&gt;
+&lt;p&gt;Aprovechamiento de hardware móvil reutilizado como nodos portátiles de bajo consumo para flujos de trabajo personales.&lt;/p&gt;
+&lt;h3 id=&#34;codígo&#34;&gt;Codígo&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

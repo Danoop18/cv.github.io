@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home Automation | Juan Hernández - CV</title><link>/tags/home-automation/</link><atom:link href="/tags/home-automation/index.xml" rel="self" type="application/rss+xml"/><description>Home Automation</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu_4bc81f2edf496b34.png</url><title>Home Automation</title><link>/tags/home-automation/</link></image><item><title>Home Automation &amp; Server Lab Infrastructure</title><link>/project/home-lab-infrastructure/</link><pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><guid>/project/home-lab-infrastructure/</guid><description>&lt;h3 id="status"&gt;Status&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Personal&lt;/code&gt; / &lt;code&gt;Work in Progress&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id="overview"&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Independent home lab setup configured on single-board hardware (Raspberry Pi / Linux node) to self-host local network services, home automation routines, and sensor data collection.&lt;/p&gt;
+&lt;h3 id="architecture--tools"&gt;Architecture &amp;amp; Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Home Assistant&lt;/strong&gt;: Centralized automation hub for local device control and sensor monitoring.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Docker&lt;/strong&gt;: Containerized service isolation for local utilities and network tools.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linux / Raspberry Pi&lt;/strong&gt;: Single-board low-power server setup operating 24/7.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="focus"&gt;Focus&lt;/h3&gt;
+&lt;p&gt;Local data privacy, system reliability, and automated alerts for home network metrics.&lt;/p&gt;</description></item></channel></rss>

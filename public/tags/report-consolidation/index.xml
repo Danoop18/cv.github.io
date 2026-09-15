@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Report Consolidation | Juan Hernández - CV</title><link>/tags/report-consolidation/</link><atom:link href="/tags/report-consolidation/index.xml" rel="self" type="application/rss+xml"/><description>Report Consolidation</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu_4bc81f2edf496b34.png</url><title>Report Consolidation</title><link>/tags/report-consolidation/</link></image><item><title>Laboratory Report Consolidation Tool</title><link>/project/laboratory-report-consolidation/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>/project/laboratory-report-consolidation/</guid><description>&lt;h3 id="problem"&gt;Problem&lt;/h3&gt;
+&lt;p&gt;Weekly KPI reports required manually pulling data from multiple Excel files, applying formulas across sheets, and reformatting the output to match a standard layout — every week. The process was time-consuming, and any formula error or formatting deviation introduced inconsistencies that needed to be found and corrected before the report could be distributed.&lt;/p&gt;
+&lt;h3 id="what-was-built"&gt;What was built&lt;/h3&gt;
+&lt;p&gt;A Python automation tool that reads data from the source Excel files, consolidates records, applies the required calculations, and writes the output in a consistent, pre-formatted structure ready for review. The process that previously took hours of manual work runs in minutes.&lt;/p&gt;
+&lt;h3 id="technology"&gt;Technology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Core data processing logic and output generation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pandas / OpenPyXL&lt;/strong&gt;: Multi-file data loading, merging, calculation, and structured Excel output.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Excel&lt;/strong&gt;: Source data format and final report output format.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="how-it-works"&gt;How it works&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Source files from the week are placed in the designated input directory.&lt;/li&gt;
+&lt;li&gt;The script loads and merges records from all files, validates field consistency, and applies the KPI calculations.&lt;/li&gt;
+&lt;li&gt;A clean, consistently formatted Excel report is written to the output directory, ready for review and distribution.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="result"&gt;Result&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Metric&lt;/strong&gt;: Saves over 8 hours of manual work per week by semi-automating weekly KPI report generation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Calculation errors caused by manual formula entry were eliminated. Report format is now consistent every week regardless of who prepares it. Staff time is redirected from report assembly to analysis and decision-making.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="evidence"&gt;Evidence&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tool in active use at Hospital MAC clinical laboratory.&lt;/li&gt;
+&lt;li&gt;Code maintained in private repository.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

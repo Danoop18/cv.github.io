@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Excel | CV Juan Hernández</title>
+    <link>http://localhost:1313/tags/excel/</link>
+      <atom:link href="http://localhost:1313/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Excel</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>Excel</title>
+      <link>http://localhost:1313/tags/excel/</link>
+    </image>
+    
+    <item>
+      <title>Herramienta de Consolidación de Reportes de Laboratorio</title>
+      <link>http://localhost:1313/project/laboratory-report-consolidation/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/laboratory-report-consolidation/</guid>
+      <description>&lt;h3 id=&#34;problema&#34;&gt;Problema&lt;/h3&gt;
+&lt;p&gt;Los reportes semanales de KPIs requerían extraer datos manualmente de múltiples archivos Excel, aplicar fórmulas entre hojas y reformatear la salida para que coincidiera con una estructura estándar — cada semana. El proceso era lento, y cualquier error en una fórmula o desviación de formato introducía inconsistencias que había que encontrar y corregir antes de distribuir el reporte.&lt;/p&gt;
+&lt;h3 id=&#34;qué-se-construyó&#34;&gt;Qué se construyó&lt;/h3&gt;
+&lt;p&gt;Una herramienta de automatización en Python que lee datos de los archivos Excel fuente, consolida registros, aplica los cálculos requeridos y escribe la salida en una estructura consistente y preformateada, lista para revisión. El proceso que antes tomaba horas de trabajo manual corre en minutos.&lt;/p&gt;
+&lt;h3 id=&#34;tecnología&#34;&gt;Tecnología&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Lógica principal de procesamiento de datos y generación de salidas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pandas / OpenPyXL&lt;/strong&gt;: Carga de múltiples archivos, unión, cálculo y generación de salida Excel estructurada.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Excel&lt;/strong&gt;: Formato de los datos fuente y del reporte final.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cómo-funciona&#34;&gt;Cómo funciona&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Los archivos fuente de la semana se colocan en el directorio de entrada designado.&lt;/li&gt;
+&lt;li&gt;El script carga y une registros de todos los archivos, valida la consistencia de campos y aplica los cálculos de KPIs.&lt;/li&gt;
+&lt;li&gt;Un reporte Excel limpio y consistentemente formateado se escribe en el directorio de salida, listo para revisión y distribución.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;resultado&#34;&gt;Resultado&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Métrica&lt;/strong&gt;: Ahorra más de 8 horas de trabajo manual a la semana mediante la semi-automatización del reporte semanal de KPIs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: Los errores de cálculo por ingreso manual de fórmulas fueron eliminados. El formato del reporte es consistente cada semana sin importar quién lo prepare. El tiempo del personal se redirige del ensamblaje del reporte al análisis y la toma de decisiones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;evidencia&#34;&gt;Evidencia&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Herramienta en uso activo en el laboratorio clínico de Hospital MAC.&lt;/li&gt;
+&lt;li&gt;Código mantenido en repositorio privado.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pipeline de Datos Clínicos: de Excel/VBA a Python</title>
+      <link>http://localhost:1313/project/clinical-data-pipeline/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/clinical-data-pipeline/</guid>
+      <description>&lt;h3 id=&#34;problema&#34;&gt;Problema&lt;/h3&gt;
+&lt;p&gt;Los registros de laboratorio se consolidaban manualmente desde múltiples hojas de cálculo en cada ciclo de reporte. El proceso dependía de operaciones de copiar-pegar, aplicación manual de fórmulas y ajustes de formato que se repetían desde cero en cada ocasión. Los errores se acumulaban en silencio y rastrear su origen era difícil.&lt;/p&gt;
+&lt;h3 id=&#34;qué-se-construyó&#34;&gt;Qué se construyó&lt;/h3&gt;
+&lt;p&gt;El flujo de trabajo pasó por dos etapas. Primero, un conjunto de macros Excel/VBA automatizó los pasos de formato y consolidación más repetitivos dentro del entorno de hojas de cálculo existente. A medida que los requisitos crecieron y el volumen de datos aumentó, el proceso se reconstruyó como un pipeline Python/Pandas que realiza la misma consolidación y limpieza de forma más confiable, scripteable y mantenible.&lt;/p&gt;
+&lt;h3 id=&#34;tecnología&#34;&gt;Tecnología&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Etapa 1 — Excel/VBA:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Macros de Excel para estandarización de formato y consolidación básica de campos entre hojas.&lt;/li&gt;
+&lt;li&gt;Scripts VBA para automatizar pasos manuales repetitivos sin cambiar el flujo de trabajo basado en hojas de cálculo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/Macros_formato.png&#34; alt=&#34;alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Etapa 2 — Python/Pandas:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Scripts de Python reemplazan el ensamblaje manual de datos.&lt;/li&gt;
+&lt;li&gt;Pandas para limpieza estructurada, validación y transformación de registros de múltiples fuentes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cómo-funciona&#34;&gt;Cómo funciona&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Los registros brutos de múltiples archivos se descargan en un único contexto de procesamiento (hoja de cálculo o script, según la etapa).&lt;/li&gt;
+&lt;li&gt;Las inconsistencias de formato se detectan y corrigen: formatos de fecha, nomenclatura de campos, filas vacías y desajustes de columnas.&lt;/li&gt;
+&lt;li&gt;Se realiza la relación entre codigo de estudio y el nombre comun usado en los reportes para homogenizar los registros.&lt;/li&gt;
+&lt;li&gt;Los datos limpios y validados se escriben en una salida única estructurada para reporte operativo.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;resultado&#34;&gt;Resultado&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: Reducción del riesgo de errores manuales en la preparación de reportes. La transición de VBA a Python hizo el proceso más fácil de auditar, modificar y transferir — la lógica vive en código, no en referencias de celdas.&lt;/li&gt;
+&lt;li&gt;La métrica de este proyecto es cualitativa: el valor está en la reproducibilidad y la reducción de errores, no en un único número medible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;evidencia&#34;&gt;Evidencia&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ambas etapas implementadas en Hospital MAC.&lt;/li&gt;
+&lt;li&gt;Macros VBA y scripts Python mantenidos en repositorio privado.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
