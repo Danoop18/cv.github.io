@@ -1,0 +1,26 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+# Default language
+en:
+  label: English
+  locale: en-us
+  contentDir: content/en
+  weight: 1
+  params:
+    marketing:
+      seo:
+        description: 'Professional portfolio of Juan Hernández: laboratory automation, molecular diagnostics, Python, VBA, clinical data analysis, and workflow optimization for clinical laboratory environments.'
+
+es:
+  label: Español
+  locale: es
+  contentDir: content/es
+  weight: 2
+  title: CV Juan Hernández
+  params:
+    description: 'Portfolio profesional de Juan Hernández: automatización de laboratorio, biología molecular, Python, VBA, análisis de datos clínicos y optimización de procesos para entornos clínicos.'
+    marketing:
+      seo:
+        description: 'Portfolio profesional de Juan Hernández: automatización de laboratorio, biología molecular, Python, VBA, análisis de datos clínicos y optimización de procesos para entornos clínicos.'

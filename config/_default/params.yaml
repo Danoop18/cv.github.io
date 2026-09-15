@@ -1,0 +1,68 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+appearance:
+  mode: dark
+  color: violet
+
+# SEO
+marketing:
+  seo:
+    site_type: Person
+# Para cuando vendes cosas o tienes una empresa
+    # site_type: LocalBusiness
+    # local_business_type: ProfessionalService
+    # org_name: 'Nombre de tu marca'
+    local_business_type: ''
+    org_name: ''
+    description: 'Professional portfolio of Juan Hernández: laboratory automation, molecular diagnostics, Python, VBA, clinical data analysis, and workflow optimization for clinical laboratory environments.'
+    twitter: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+header:
+  navbar:
+    enable: true
+    block: "navbar"
+    fixed_to_top: true
+    show_search: true
+    show_theme_chooser: true
+    logo:
+      # text: "Juan Hernández"
+
+
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} Juan Hernández. Laboratory Automation · Clinical Data · Molecular Diagnostics.'
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: false
+      allow_commercial: false
+
+# Hide the default template attribution from the footer.
+i_am_a_sponsor: true
+
+# Localization
+locale:
+  date_format: '02 Jan 2006'
+  time_format: '15:04'
+
+# Site features
+features:
+  math:
+    enable: false
+  privacy_pack:
+    enable: true
