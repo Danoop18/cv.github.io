@@ -33,9 +33,9 @@ Personal lab infrastructure configured on low-power hardware (Raspberry Pi / Lin
 
 ##
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <img src="uploads/Homelab_2.png" alt="Servicio 1" style="width: 100%; border-radius: 15px;">
-  <img src="uploads/Homelab_1.png" alt="Servicio 2" style="width: 100%; border-radius: 15px;">
-  <img src="uploads/Homelab_3.png" alt="Servicio 3" style="width: 100%; border-radius: 15px;">
+  {{< img src="uploads/Homelab_2.png" alt="Servicio 1" style="width: 100%; border-radius: 15px;" >}}
+  {{< img src="uploads/Homelab_1.png" alt="Servicio 2" style="width: 100%; border-radius: 15px;" >}}
+  {{< img src="uploads/Homelab_3.png" alt="Servicio 3" style="width: 100%; border-radius: 15px;" >}}
 </div>   
 
 ##
@@ -46,3 +46,5 @@ Personal lab infrastructure configured on low-power hardware (Raspberry Pi / Lin
 
 ### Focus
 Local data privacy, system reliability, and automated alerts for home network metrics.
+
+

@@ -49,8 +49,11 @@ A Python-based automation tool that reads data from source Excel files, consolid
 - Code maintained in a private repository.
 
 ##
-![Pagina Inicial](uploads/QC_registrator/inicio.png)
+{{< img src="uploads/QC_registrator/Inicio.png" alt="Pagina Inicial" >}}
 
-![Pagina Configuración](uploads/QC_registrator/Configurar.png)
+{{< img src="uploads/QC_registrator/Configurar.png" alt="Pagina Configuración" >}}
 
-![Motor trabajando](uploads/QC_registrator/Registro.png)
+{{< img src="uploads/QC_registrator/Registro.png" alt="Motor trabajando" >}}
+
+
+

@@ -19,7 +19,7 @@ sections:
         education: Formación
         interests: Especialización
       button:
-        url: ../uploads/resume.pdf
+        url: uploads/resume.pdf
         text: Descargar CV
     design:
       css_class: dark
@@ -42,7 +42,7 @@ sections:
         - url: personal-lab/
           text: Laboratorio Personal
           icon: cpu-chip
-        - url: ../uploads/resume.pdf
+        - url: uploads/resume.pdf
           text: Descargar CV
           icon: document-arrow-down
         - url: mailto:juan.hdz.9718@gmail.com
@@ -55,3 +55,6 @@ sections:
           text: LinkedIn
           icon: brands/linkedin
 ---
+
+
+

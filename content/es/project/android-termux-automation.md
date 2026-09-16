@@ -33,3 +33,6 @@ Aprovechamiento de hardware móvil reutilizado como nodos portátiles de bajo co
 
 ### Codígo
 
+
+
+

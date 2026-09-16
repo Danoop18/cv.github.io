@@ -50,12 +50,14 @@ Sistema de automatización en Python que extrae registros brutos de control de c
 - Implementación activa en el laboratorio clínico de Hospital MAC.
 - Código mantenido en repositorio personal.
 
-![Imagen de inicio del sitema de analisis web cclabcontrol](uploads/Scraping_QC.png)
+{{< img src="uploads/Scraping_QC.png" alt="Imagen de inicio del sistema de análisis web cclabcontrol" >}}
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <img src="static/uploads/QC_registrator/Inicio.png" alt="Inicio" style="width: 100%; border-radius: 15px;">
-  <img src="static/uploads/QC_registrator/Configurar.png" alt="Configuracion" style="width: 100%; border-radius: 15px;">
-  <img src="static/uploads/QC_registrator/Registro.png" alt="Registro" style="width: 100%; border-radius: 15px;">
-</div> 
+
+{{< img src="uploads/QC_registrator/inicio.png" alt="Inicio" style="width: 100%; border-radius: 15px;" >}}
+{{< img src="uploads/QC_registrator/Configurar.png" alt="Configuración" style="width: 100%; border-radius: 15px;" >}}
+{{< img src="uploads/QC_registrator/Registro.png" alt="Registro" style="width: 100%; border-radius: 15px;" >}}
+
+</div>
 
 

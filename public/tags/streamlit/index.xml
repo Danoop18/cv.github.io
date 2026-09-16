@@ -1,52 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Streamlit | CV Juan Hernández</title>
-    <link>http://localhost:1313/tags/streamlit/</link>
-      <atom:link href="http://localhost:1313/tags/streamlit/index.xml" rel="self" type="application/rss+xml" />
-    <description>Streamlit</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
-      <title>Streamlit</title>
-      <link>http://localhost:1313/tags/streamlit/</link>
-    </image>
-    
-    <item>
-      <title>Dashboard de KPI Clínicos y Bitácora Digital</title>
-      <link>http://localhost:1313/project/lab-dashboard/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/lab-dashboard/</guid>
-      <description>&lt;h3 id=&#34;estado&#34;&gt;Estado&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Streamlit | CV Juan Hernández</title><link>https://danoop18.github.io/cv.github.io/tags/streamlit/</link><atom:link href="https://danoop18.github.io/cv.github.io/tags/streamlit/index.xml" rel="self" type="application/rss+xml"/><description>Streamlit</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>https://danoop18.github.io/cv.github.io/media/icon_hu_4bc81f2edf496b34.png</url><title>Streamlit</title><link>https://danoop18.github.io/cv.github.io/tags/streamlit/</link></image><item><title>Dashboard de KPI Clínicos y Bitácora Digital</title><link>https://danoop18.github.io/cv.github.io/project/lab-dashboard/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/project/lab-dashboard/</guid><description>&lt;h3 id="estado"&gt;Estado&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;No implementado&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&#34;problema&#34;&gt;Problema&lt;/h3&gt;
+&lt;h3 id="problema"&gt;Problema&lt;/h3&gt;
 &lt;p&gt;Los registros del laboratorio se mantienen en bitácoras físicas y hojas de cálculo desconectadas y actualizadas por múltiples personas. Buscar un registro específico implica revisar páginas manualmente. Cruzar datos entre fechas, analistas o servicios no es viable en la operación diaria. No existé un lugar único donde ver qué ocurre en el laboratorio en un momento dado.&lt;/p&gt;
-&lt;h3 id=&#34;qué-se-construyó&#34;&gt;Qué se construyó&lt;/h3&gt;
+&lt;h3 id="qué-se-construyó"&gt;Qué se construyó&lt;/h3&gt;
 &lt;p&gt;Una aplicación Streamlit interactiva que funciona como bitácora digital estructurada y como dashboard de KPI operativos. Con potencial de expandise a LIMS operativo. El personal ingresa registros a través de una interfaz de formulario intuitiva y completa; la aplicación almacena, organiza y muestra los datos de forma que la búsqueda, el filtrado y la comparación sean inmediatos sin recargas de web inecesarias y estables.&lt;/p&gt;
-&lt;h3 id=&#34;tecnología&#34;&gt;Tecnología&lt;/h3&gt;
+&lt;h3 id="tecnología"&gt;Tecnología&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Lógica de datos del backend y estructura de la aplicación.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Streamlit&lt;/strong&gt;: Interfaz web interactiva para ingreso de datos y visualización.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Pandas&lt;/strong&gt;: Estructuración, filtrado y agregación de KPIs.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;cómo-funciona&#34;&gt;Cómo funciona&lt;/h3&gt;
+&lt;h3 id="cómo-funciona"&gt;Cómo funciona&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;El personal del laboratorio ingresa registros diarios mediante un formulario estructurado en la interfaz web (tipo de servicio, analista, resultado, fecha, observaciones).&lt;/li&gt;
 &lt;li&gt;Las entradas se almacenan e indexan para que cualquier registro pueda recuperarse por fecha, analista o servicio sin revisar páginas físicas.&lt;/li&gt;
 &lt;li&gt;La capa de dashboard agrega las entradas en KPIs operativos: volumen diario por servicio, tasas de aprobación de QC, distribución de carga de trabajo entre analistas.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;resultado&#34;&gt;Resultado&lt;/h3&gt;
+&lt;h3 id="resultado"&gt;Resultado&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Métrica&lt;/strong&gt;: Sistema de bitácora completamente digital — elimina el registro manual de múltiples usuarios y agiliza la búsqueda y cotejo de registros.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: El laboratorio dejaría de mantener registros físicos y digitales en paralelo. Los datos ingresados una vez son consultables de inmediato. La toma de decisiones basada en tendencias operativas se volviría posible sin preparación manual de reportes.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;evidencia&#34;&gt;Evidencia&lt;/h3&gt;
+&lt;h3 id="evidencia"&gt;Evidencia&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;del&gt;Desplegado en el laboratorio clínico de Hospital MAC&lt;/del&gt;.&lt;/li&gt;
 &lt;li&gt;Código mantenido en repositorio privado.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/ul&gt;</description></item></channel></rss>

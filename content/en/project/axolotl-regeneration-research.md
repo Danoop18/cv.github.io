@@ -21,7 +21,7 @@ date: '2023-08-01T00:00:00Z'
 
 How do reactive nitrogen and oxygen species (specifically peroxynitrite dynamics) modulate cell signaling cascades, tissue remodeling, and positional memory during limb regeneration in the axolotl (*Ambystoma mexicanum*)?
 
-![Banner: Tissue regeneration research](uploads/ajolote_research.png)
+{{< img src="uploads/ajolote_research.png" alt="Banner: Tissue regeneration research" >}}
 
 ### Context
 
@@ -42,3 +42,5 @@ The axolotl is a fundamental model organism in regenerative biology due to its e
 - **Publication status**: Manuscript in preparation.
 - **Affiliation**: Master's thesis research, CINVESTAV-UGA (Irapuato, Mexico).
 ---
+
+

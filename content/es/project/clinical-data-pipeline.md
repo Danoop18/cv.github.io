@@ -53,3 +53,6 @@ El flujo de trabajo pasó por dos etapas. Primero, un conjunto de macros Excel/V
 
 - Ambas etapas implementadas en Hospital MAC.
 - Macros VBA y scripts Python mantenidos en repositorio privado.
+
+
+

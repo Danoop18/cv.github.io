@@ -31,4 +31,6 @@ Experimentos personales de biología computacional evaluando herramientas de seg
 ### Enfoque
 Evaluación de la precisión de segmentación y automatización de flujos de conteo celular para conjuntos de datos de bioimágenes.
 
-![Imagen confocal stock ](uploads/MPO_imagen.webp)
+{{< img src="uploads/MPO_imagen.webp" alt="Imagen confocal stock " >}}
+
+

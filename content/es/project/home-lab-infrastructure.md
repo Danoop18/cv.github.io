@@ -33,17 +33,10 @@ Infraestructura de laboratorio personal configurada en hardware de bajo consumo 
 
 ##
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <img src="uploads/Homelab_2.png" alt="Dashboard 1" style="width: 100%; border-radius: 15px;">
-  <img src="uploads/Homelab_1.png" alt="Dashboard 2" style="width: 100%; border-radius: 15px;">
-  <img src="uploads/Homelab_3.png" alt="Dashboard 3" style="width: 100%; border-radius: 15px;">
+  {{< img src="uploads/Homelab_2.png" alt="Dashboard 1" style="width: 100%; border-radius: 15px;" >}}
+  {{< img src="uploads/Homelab_1.png" alt="Dashboard 2" style="width: 100%; border-radius: 15px;" >}}
+  {{< img src="uploads/Homelab_3.png" alt="Dashboard 3" style="width: 100%; border-radius: 15px;" >}}
 </div>   
-<!-- <table>
-  <tr>
-    <td><img src="Screenshot_20260912_123827_Samsung Browser.png" alt="Servicio 1"></td>
-    <td><img src="Screenshot_20260912_123840_Samsung Browser.png" alt="Servicio 2"></td>
-    <td><img src="Screenshot_20260912_123818_Samsung Browser.png" alt="Servicio 3"></td>
-  </tr>
-</table>    -->
 
 ##
 
@@ -54,3 +47,6 @@ Infraestructura de laboratorio personal configurada en hardware de bajo consumo 
 
 ### Enfoque
 Privacidad de datos locales, confiabilidad del sistema y alertas automatizadas para métricas de red doméstica.
+
+
+

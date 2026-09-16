@@ -21,7 +21,7 @@ date: '2023-08-01T00:00:00Z'
 
 ¿De qué manera las especies reactivas de nitrógeno y oxígeno (específicamente la dinámica de peroxinitrito) modulan las cascadas de señalización celular, la remodelación de tejidos y la memoria posicional durante la regeneración de extremidades en el ajolote (*Ambystoma mexicanum*)?
 
-![baner-investigación en regeneración de tejidos](uploads/ajolote_research.png)
+{{< img src="uploads/ajolote_research.png" alt="baner-investigación en regeneración de tejidos" >}}
 
 ### Contexto
 
@@ -44,3 +44,6 @@ El ajolote es un organismo modelo fundamental en biología regenerativa debido a
 - **Estado de publicación**: Manuscrito en preparación.
 - **Afiliación**: Investigación de Tesis de Maestría, CINVESTAV-UGA (Irapuato, México).
 ---
+
+
+

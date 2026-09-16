@@ -143,8 +143,11 @@ languages:
 
 **About me**
 
-I am a laboratory professional with a background in biotechnology who builds software tools, automates data workflows, and turns repetitive manual processes into reproducible, traceable systems.
+I am a laboratory professional with a background in biochemical and biotechnology who builds software tools, automates data workflows, and turns repetitive manual processes into reproducible, traceable systems.
 
 I currently work in clinical laboratory diagnostics at Hospital MAC, where I identify operational bottlenecks and solve them through automation — from quality control data pipelines to digital logbooks and batch patient registration tools. My training in biochemical engineering and plant biotechnology at CINVESTAV gives me an inside understanding of laboratory work: I know the process I am automating, not just the code.
 
-My goal is to apply this combination — laboratory knowledge and engineering capability — to organizations where reliable data and efficient workflows make a measurable difference.
+My goal is to leverage my analytical and technical capabilities to solve complex challenges, maximizing operational efficiency and directly contributing to my organization's growth objectives.
+
+
+

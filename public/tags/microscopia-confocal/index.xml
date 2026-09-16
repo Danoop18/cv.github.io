@@ -1,108 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Microscopía Confocal | CV Juan Hernández</title>
-    <link>http://localhost:1313/tags/microscopia-confocal/</link>
-      <atom:link href="http://localhost:1313/tags/microscopia-confocal/index.xml" rel="self" type="application/rss+xml" />
-    <description>Microscopía Confocal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
-      <title>Microscopía Confocal</title>
-      <link>http://localhost:1313/tags/microscopia-confocal/</link>
-    </image>
-    
-    <item>
-      <title>Experimentos de Análisis de Bioimágenes con Cellpose</title>
-      <link>http://localhost:1313/project/bioimage-cellpose-experiments/</link>
-      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/bioimage-cellpose-experiments/</guid>
-      <description>&lt;h3 id=&#34;estado&#34;&gt;Estado&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Microscopía Confocal | CV Juan Hernández</title><link>https://danoop18.github.io/cv.github.io/tags/microscopia-confocal/</link><atom:link href="https://danoop18.github.io/cv.github.io/tags/microscopia-confocal/index.xml" rel="self" type="application/rss+xml"/><description>Microscopía Confocal</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>https://danoop18.github.io/cv.github.io/media/icon_hu_4bc81f2edf496b34.png</url><title>Microscopía Confocal</title><link>https://danoop18.github.io/cv.github.io/tags/microscopia-confocal/</link></image><item><title>Experimentos de Análisis de Bioimágenes con Cellpose</title><link>https://danoop18.github.io/cv.github.io/project/bioimage-cellpose-experiments/</link><pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/project/bioimage-cellpose-experiments/</guid><description>&lt;h3 id="estado"&gt;Estado&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Experimental&lt;/code&gt;/&lt;code&gt;Prototipo&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;descripción-general&#34;&gt;Descripción General&lt;/h3&gt;
+&lt;h3 id="descripción-general"&gt;Descripción General&lt;/h3&gt;
 &lt;p&gt;Experimentos personales de biología computacional evaluando herramientas de segmentación celular basadas en aprendizaje profundo (Cellpose) para análisis cuantitativo de imágenes de microscopía confocal y fluorescencia.&lt;/p&gt;
-&lt;h3 id=&#34;alcance-técnico&#34;&gt;Alcance Técnico&lt;/h3&gt;
+&lt;h3 id="alcance-técnico"&gt;Alcance Técnico&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Python y Cellpose&lt;/strong&gt;: Evaluación de modelos pre-entrenados de segmentación celular sobre imágenes de microscopía confocal.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Procesamiento de Imágenes&lt;/strong&gt;: Extracción de características en lote (área celular, intensidad de señal, conteo).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Cuadernos Jupyter&lt;/strong&gt;: Pipelines exploratorios de análisis y visualización de datos.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;enfoque&#34;&gt;Enfoque&lt;/h3&gt;
+&lt;h3 id="enfoque"&gt;Enfoque&lt;/h3&gt;
 &lt;p&gt;Evaluación de la precisión de segmentación y automatización de flujos de conteo celular para conjuntos de datos de bioimágenes.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/MPO_imagen.webp&#34; alt=&#34;alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Regeneración de Tejidos en Ajolote y Dinámica de Especies Reactivas de Oxígeno y Nitrógeno (ROS/RNS)</title>
-      <link>http://localhost:1313/project/axolotl-regeneration-research/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/axolotl-regeneration-research/</guid>
-      <description>&lt;h3 id=&#34;pregunta-científica&#34;&gt;Pregunta Científica&lt;/h3&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/MPO_imagen.webp" alt="Imagen confocal stock "&gt;</description></item><item><title>Regeneración de Tejidos en Ajolote y Dinámica de Especies Reactivas de Oxígeno y Nitrógeno (ROS/RNS)</title><link>https://danoop18.github.io/cv.github.io/project/axolotl-regeneration-research/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/project/axolotl-regeneration-research/</guid><description>&lt;h3 id="pregunta-científica"&gt;Pregunta Científica&lt;/h3&gt;
 &lt;p&gt;¿De qué manera las especies reactivas de nitrógeno y oxígeno (específicamente la dinámica de peroxinitrito) modulan las cascadas de señalización celular, la remodelación de tejidos y la memoria posicional durante la regeneración de extremidades en el ajolote (&lt;em&gt;Ambystoma mexicanum&lt;/em&gt;)?&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/ajolote_research.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h3 id=&#34;contexto&#34;&gt;Contexto&lt;/h3&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/ajolote_research.png" alt="baner-investigación en regeneración de tejidos"&gt;
+&lt;h3 id="contexto"&gt;Contexto&lt;/h3&gt;
 &lt;p&gt;El ajolote es un organismo modelo fundamental en biología regenerativa debido a su extraordinaria capacidad para regenerar estructuras biológicas complejas (extremidades, tejido cardíaco y componentes del sistema nervioso central) sin dejar cicatriz. Comprender las cascadas tempranas de señalización redox que detonan la formación del blastema es esencial para descifrar la plasticidad celular y la reparación tisular. Esta investigación se desarrolló dentro de los estudios de Maestría en CINVESTAV-UGA (Irapuato, México).&lt;/p&gt;
-&lt;h3 id=&#34;enfoque-experimental&#34;&gt;Enfoque Experimental&lt;/h3&gt;
+&lt;h3 id="enfoque-experimental"&gt;Enfoque Experimental&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Biología Molecular y Preparación de Muestras&lt;/strong&gt;: Optimización de protocolos de recolección y fijación de tejidos, marcaje molecular con sondas fluorescentes en etapas tempranas y tardías postamputación, diseño de estrategias de montado y protocolos de análisis confocal.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Microscopía Avanzada&lt;/strong&gt;: Uso de microscopía confocal de barrido láser para capturar la dinámica espacio-temporal de especies reactivas marcadas en tiempo real en tejido durante las primeras etapas de regeneración.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Análisis de Imágenes y Datos&lt;/strong&gt;: Aplicación de análisis semi-cuantitativo para extraer métricas de intensidad de señal, distribución espacial y localización celular a lo largo de las fases tempranas de regeneración.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;qué-se-investigó&#34;&gt;Qué se investigó&lt;/h3&gt;
+&lt;h3 id="qué-se-investigó"&gt;Qué se investigó&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Distribución espacio-temporal de la acumulación de peroxinitrito, superoxido y oxido nitrico durante las fases tempranas de cicatrización y formación del blastema post-amputación.&lt;/li&gt;
 &lt;li&gt;Patrones de localización celular de marcadores de estrés oxidativo en células blastemales versus tejidos control no regenerativos.&lt;/li&gt;
 &lt;li&gt;Refinamiento metodológico de protocolos de montaje, sondeo y fluorescencia en tejidos de anfibios.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;estado-actual&#34;&gt;Estado Actual&lt;/h3&gt;
+&lt;h3 id="estado-actual"&gt;Estado Actual&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Estado de publicación&lt;/strong&gt;: Manuscrito en preparación.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Afiliación&lt;/strong&gt;: Investigación de Tesis de Maestría, CINVESTAV-UGA (Irapuato, México).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;hr&gt;</description></item></channel></rss>

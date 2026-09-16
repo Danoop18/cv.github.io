@@ -1,95 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Confocal Microscopy | Juan Hernández - CV</title>
-    <link>http://localhost:1313/en/tags/confocal-microscopy/</link>
-      <atom:link href="http://localhost:1313/en/tags/confocal-microscopy/index.xml" rel="self" type="application/rss+xml" />
-    <description>Confocal Microscopy</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
-      <title>Confocal Microscopy</title>
-      <link>http://localhost:1313/en/tags/confocal-microscopy/</link>
-    </image>
-    
-    <item>
-      <title>Bioimage Analysis Experiments with Cellpose</title>
-      <link>http://localhost:1313/en/project/bioimage-cellpose-experiments/</link>
-      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/bioimage-cellpose-experiments/</guid>
-      <description>&lt;h3 id=&#34;status&#34;&gt;Status&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Confocal Microscopy | Juan Hernández - CV</title><link>https://danoop18.github.io/cv.github.io/en/tags/confocal-microscopy/</link><atom:link href="https://danoop18.github.io/cv.github.io/en/tags/confocal-microscopy/index.xml" rel="self" type="application/rss+xml"/><description>Confocal Microscopy</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>https://danoop18.github.io/cv.github.io/media/icon_hu_4bc81f2edf496b34.png</url><title>Confocal Microscopy</title><link>https://danoop18.github.io/cv.github.io/en/tags/confocal-microscopy/</link></image><item><title>Bioimage Analysis Experiments with Cellpose</title><link>https://danoop18.github.io/cv.github.io/en/project/bioimage-cellpose-experiments/</link><pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/en/project/bioimage-cellpose-experiments/</guid><description>&lt;h3 id="status"&gt;Status&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Experimental&lt;/code&gt;/&lt;code&gt;Prototype&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;h3 id="overview"&gt;Overview&lt;/h3&gt;
 &lt;p&gt;Personal computational biology experiments evaluating deep learning-based cell segmentation tools (Cellpose) for the quantitative analysis of confocal and fluorescence microscopy images.&lt;/p&gt;
-&lt;h3 id=&#34;technical-scope&#34;&gt;Technical Scope&lt;/h3&gt;
+&lt;h3 id="technical-scope"&gt;Technical Scope&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Python and Cellpose&lt;/strong&gt;: Evaluation of pre-trained cell segmentation models on confocal microscopy images.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Image Processing&lt;/strong&gt;: Batch feature extraction (cell area, signal intensity, cell count).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Jupyter Notebooks&lt;/strong&gt;: Exploratory pipelines for data analysis and visualization.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;focus&#34;&gt;Focus&lt;/h3&gt;
+&lt;h3 id="focus"&gt;Focus&lt;/h3&gt;
 &lt;p&gt;Evaluating segmentation accuracy and automating cell counting workflows for bioimaging datasets.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/MPO_imagen.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Axolotl Tissue Regeneration and the Dynamics of Reactive Oxygen and Nitrogen Species (ROS/RNS)</title>
-      <link>http://localhost:1313/en/project/axolotl-regeneration-research/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/axolotl-regeneration-research/</guid>
-      <description>&lt;h3 id=&#34;scientific-question&#34;&gt;Scientific Question&lt;/h3&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/MPO_imagen.webp" alt="stock confocal image"&gt;</description></item><item><title>Axolotl Tissue Regeneration and the Dynamics of Reactive Oxygen and Nitrogen Species (ROS/RNS)</title><link>https://danoop18.github.io/cv.github.io/en/project/axolotl-regeneration-research/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/en/project/axolotl-regeneration-research/</guid><description>&lt;h3 id="scientific-question"&gt;Scientific Question&lt;/h3&gt;
 &lt;p&gt;How do reactive nitrogen and oxygen species (specifically peroxynitrite dynamics) modulate cell signaling cascades, tissue remodeling, and positional memory during limb regeneration in the axolotl (&lt;em&gt;Ambystoma mexicanum&lt;/em&gt;)?&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/ajolote_research.png&#34; alt=&#34;alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/ajolote_research.png" alt="Banner: Tissue regeneration research"&gt;
+&lt;h3 id="context"&gt;Context&lt;/h3&gt;
 &lt;p&gt;The axolotl is a fundamental model organism in regenerative biology due to its extraordinary ability to regenerate complex biological structures (limbs, cardiac tissue, and central nervous system components) without scarring. Understanding the early redox signaling cascades that trigger blastema formation is essential for deciphering cellular plasticity and tissue repair. This research was conducted as part of a Master&amp;rsquo;s degree program at CINVESTAV-UGA (Irapuato, Mexico).&lt;/p&gt;
-&lt;h3 id=&#34;experimental-approach&#34;&gt;Experimental Approach&lt;/h3&gt;
+&lt;h3 id="experimental-approach"&gt;Experimental Approach&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Molecular Biology and Sample Preparation&lt;/strong&gt;: Optimization of tissue collection and fixation protocols; molecular labeling using fluorescent probes at early and late post-amputation stages; design of mounting strategies and confocal analysis protocols.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Advanced Microscopy&lt;/strong&gt;: Use of laser scanning confocal microscopy to capture the spatiotemporal dynamics of labeled reactive species in real-time within the tissue during the initial stages of regeneration.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Image and Data Analysis&lt;/strong&gt;: Application of semi-quantitative analysis to extract metrics regarding signal intensity, spatial distribution, and cellular localization throughout the early phases of regeneration.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h3&gt;
+&lt;h3 id="research-focus"&gt;Research Focus&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Spatiotemporal distribution of peroxynitrite, superoxide, and nitric oxide accumulation during the early phases of wound healing and blastema formation post-amputation.&lt;/p&gt;
@@ -107,9 +39,4 @@
 &lt;p&gt;&lt;strong&gt;Affiliation&lt;/strong&gt;: Master&amp;rsquo;s thesis research, CINVESTAV-UGA (Irapuato, Mexico).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;hr&gt;</description></item></channel></rss>

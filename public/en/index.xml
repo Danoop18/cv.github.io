@@ -1,43 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Juan Hernández - CV</title>
-    <link>http://localhost:1313/en/</link>
-      <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
-    <description>Juan Hernández - CV</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
-      <title>Juan Hernández - CV</title>
-      <link>http://localhost:1313/en/</link>
-    </image>
-    
-    <item>
-      <title>Personal Lab</title>
-      <link>http://localhost:1313/en/personal-lab/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/personal-lab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/en/projects/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Server Infrastructure and Home Automation</title>
-      <link>http://localhost:1313/en/project/home-lab-infrastructure/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/home-lab-infrastructure/</guid>
-      <description>&lt;h3 id=&#34;status&#34;&gt;Status&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Juan Hernández - CV</title><link>https://danoop18.github.io/cv.github.io/en/</link><atom:link href="https://danoop18.github.io/cv.github.io/en/index.xml" rel="self" type="application/rss+xml"/><description>Juan Hernández - CV</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://danoop18.github.io/cv.github.io/media/icon_hu_4bc81f2edf496b34.png</url><title>Juan Hernández - CV</title><link>https://danoop18.github.io/cv.github.io/en/</link></image><item><title>Personal Lab</title><link>https://danoop18.github.io/cv.github.io/en/personal-lab/</link><pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/en/personal-lab/</guid><description/></item><item><title>Projects</title><link>https://danoop18.github.io/cv.github.io/en/projects/</link><pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/en/projects/</guid><description/></item><item><title>Server Infrastructure and Home Automation</title><link>https://danoop18.github.io/cv.github.io/en/project/home-lab-infrastructure/</link><pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/en/project/home-lab-infrastructure/</guid><description>&lt;h3 id="status"&gt;Status&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Personal/In Development&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&#34;general-description&#34;&gt;General Description&lt;/h3&gt;
+&lt;h3 id="general-description"&gt;General Description&lt;/h3&gt;
 &lt;p&gt;Personal lab infrastructure configured on low-power hardware (Raspberry Pi / Linux node) to self-host local network services, automation routines, and sensor data ingestion.&lt;/p&gt;
-&lt;h3 id=&#34;current-services&#34;&gt;Current Services&lt;/h3&gt;
+&lt;h3 id="current-services"&gt;Current Services&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Pi-Hole&lt;/li&gt;
 &lt;li&gt;Unbound&lt;/li&gt;
@@ -47,43 +12,34 @@
 &lt;li&gt;Custom scripts&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;&lt;/h2&gt;
-&lt;div style=&#34;display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/uploads/Homelab_2.png&#34; alt=&#34;Servicio 1&#34; style=&#34;width: 100%; border-radius: 15px;&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/uploads/Homelab_1.png&#34; alt=&#34;Servicio 2&#34; style=&#34;width: 100%; border-radius: 15px;&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/uploads/Homelab_3.png&#34; alt=&#34;Servicio 3&#34; style=&#34;width: 100%; border-radius: 15px;&#34;&gt;
-&lt;/div&gt;   
+&lt;div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;"&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/Homelab_2.png" alt="Servicio 1" style="ZgotmplZ"&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/Homelab_1.png" alt="Servicio 2" style="ZgotmplZ"&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/Homelab_3.png" alt="Servicio 3" style="ZgotmplZ"&gt;
+&lt;/div&gt;
 &lt;h2&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;architecture-and-tools&#34;&gt;Architecture and Tools&lt;/h3&gt;
+&lt;h3 id="architecture-and-tools"&gt;Architecture and Tools&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Home Assistant&lt;/strong&gt;: Central automation hub for device control and monitoring.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Docker&lt;/strong&gt;: Containerized service isolation for local utilities and network tools. - &lt;strong&gt;Linux / Raspberry Pi&lt;/strong&gt;: Low-power server running 24/7.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;focus&#34;&gt;Focus&lt;/h3&gt;
-&lt;p&gt;Local data privacy, system reliability, and automated alerts for home network metrics.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Automated Patient Registration Tool</title>
-      <link>http://localhost:1313/en/project/chrome-extension/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/chrome-extension/</guid>
-      <description>&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;
+&lt;h3 id="focus"&gt;Focus&lt;/h3&gt;
+&lt;p&gt;Local data privacy, system reliability, and automated alerts for home network metrics.&lt;/p&gt;</description></item><item><title>Automated Patient Registration Tool</title><link>https://danoop18.github.io/cv.github.io/en/project/chrome-extension/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/en/project/chrome-extension/</guid><description>&lt;h3 id="problem"&gt;Problem&lt;/h3&gt;
 &lt;p&gt;Corporate sample collection events require registering and labeling over 100 samples within a short timeframe. Performing this manually via the existing web-based LIMS was slow, lacked bulk upload capabilities, and was prone to errors; furthermore, it tied up staff, the label printer, and terminals for hours during each event. A typo in a person&amp;rsquo;s record or a mislabeled container resulted in a loss of sample traceability, delays for corrections, and the erroneous mixing of personal data.&lt;/p&gt;
-&lt;h3 id=&#34;what-was-built&#34;&gt;What Was Built&lt;/h3&gt;
+&lt;h3 id="what-was-built"&gt;What Was Built&lt;/h3&gt;
 &lt;p&gt;A web automation tool that processes patient lists in batches and automatically interacts with the registration system: it fills out forms, submits records, and triggers label generation without requiring manual data entry for each patient.&lt;/p&gt;
-&lt;h3 id=&#34;technology&#34;&gt;Technology&lt;/h3&gt;
+&lt;h3 id="technology"&gt;Technology&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;: DOM interaction to automate form filling, record submission, and label activation within the existing LIMS web interface.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Web Automation&lt;/strong&gt;: Automated form filling, record submission, and label activation on the existing web interface.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;how-it-works&#34;&gt;How It Works&lt;/h3&gt;
+&lt;h3 id="how-it-works"&gt;How It Works&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;A patient list (name, date of birth, required tests, ID, gender) is prepared and loaded into the tool.&lt;/li&gt;
 &lt;li&gt;The automation iterates through the list, performs checks against the LIMS database, fills out the registration form for each patient, submits the record, and triggers label generation.&lt;/li&gt;
 &lt;li&gt;The process runs continuously without manual intervention until the batch is complete.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
+&lt;h3 id="results"&gt;Results&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Metric&lt;/strong&gt;: Saves over 8 hours of manual registration time per corporate collection session and eliminates labeling errors caused by manual data entry. By using a single terminal running in the background, the technician is free to interact with a second session or attend to patients while the process runs.&lt;/p&gt;
@@ -92,176 +48,69 @@
 &lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Staff are redirected from data entry to direct patient care during collection events. The risk of patient-label mismatches due to data entry errors is eliminated within the automated portion of the process.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;evidence&#34;&gt;Evidence&lt;/h3&gt;
+&lt;h3 id="evidence"&gt;Evidence&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Tool currently in active use for corporate collection events at Hospital MAC.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bioimage Analysis Experiments with Cellpose</title>
-      <link>http://localhost:1313/en/project/bioimage-cellpose-experiments/</link>
-      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/bioimage-cellpose-experiments/</guid>
-      <description>&lt;h3 id=&#34;status&#34;&gt;Status&lt;/h3&gt;
+&lt;/ul&gt;</description></item><item><title>Bioimage Analysis Experiments with Cellpose</title><link>https://danoop18.github.io/cv.github.io/en/project/bioimage-cellpose-experiments/</link><pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/en/project/bioimage-cellpose-experiments/</guid><description>&lt;h3 id="status"&gt;Status&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Experimental&lt;/code&gt;/&lt;code&gt;Prototype&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;h3 id="overview"&gt;Overview&lt;/h3&gt;
 &lt;p&gt;Personal computational biology experiments evaluating deep learning-based cell segmentation tools (Cellpose) for the quantitative analysis of confocal and fluorescence microscopy images.&lt;/p&gt;
-&lt;h3 id=&#34;technical-scope&#34;&gt;Technical Scope&lt;/h3&gt;
+&lt;h3 id="technical-scope"&gt;Technical Scope&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Python and Cellpose&lt;/strong&gt;: Evaluation of pre-trained cell segmentation models on confocal microscopy images.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Image Processing&lt;/strong&gt;: Batch feature extraction (cell area, signal intensity, cell count).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Jupyter Notebooks&lt;/strong&gt;: Exploratory pipelines for data analysis and visualization.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;focus&#34;&gt;Focus&lt;/h3&gt;
+&lt;h3 id="focus"&gt;Focus&lt;/h3&gt;
 &lt;p&gt;Evaluating segmentation accuracy and automating cell counting workflows for bioimaging datasets.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/MPO_imagen.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Laboratory Report Consolidation Tool</title>
-      <link>http://localhost:1313/en/project/laboratory-report-consolidation/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/laboratory-report-consolidation/</guid>
-      <description>&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/MPO_imagen.webp" alt="stock confocal image"&gt;</description></item><item><title>Laboratory Report Consolidation Tool</title><link>https://danoop18.github.io/cv.github.io/en/project/laboratory-report-consolidation/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/en/project/laboratory-report-consolidation/</guid><description>&lt;h3 id="problem"&gt;Problem&lt;/h3&gt;
 &lt;p&gt;Weekly KPI reports required manually extracting data from multiple Excel files, applying formulas across worksheets, and reformatting the output to match a standard structure—every single week. The process was slow, and any formula error or formatting deviation introduced inconsistencies that had to be identified and corrected before the report could be distributed.&lt;/p&gt;
-&lt;h3 id=&#34;what-was-built&#34;&gt;What Was Built&lt;/h3&gt;
+&lt;h3 id="what-was-built"&gt;What Was Built&lt;/h3&gt;
 &lt;p&gt;A Python-based automation tool that reads data from source Excel files, consolidates records, performs the required calculations, and writes the output into a consistent, pre-formatted structure ready for review. A process that previously took hours of manual work now runs in minutes.&lt;/p&gt;
-&lt;h3 id=&#34;technology&#34;&gt;Technology&lt;/h3&gt;
+&lt;h3 id="technology"&gt;Technology&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Core logic for data processing and output generation.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Pandas / OpenPyXL&lt;/strong&gt;: Loading multiple files, merging data, performing calculations, and generating structured Excel output.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Excel&lt;/strong&gt;: Format for source data and the final report.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;how-it-works&#34;&gt;How It Works&lt;/h3&gt;
+&lt;h3 id="how-it-works"&gt;How It Works&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;The week&amp;rsquo;s source files are placed in the designated input directory.&lt;/li&gt;
 &lt;li&gt;The script loads and merges records from all files, validates field consistency, and applies KPI calculations.&lt;/li&gt;
 &lt;li&gt;A clean, consistently formatted Excel report is written to the output directory, ready for review and distribution.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
+&lt;h3 id="results"&gt;Results&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Metric&lt;/strong&gt;: Saves over 8 hours of manual work per week through the semi-automation of weekly KPI reporting.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Calculation errors caused by manual formula entry were eliminated. Report formatting is consistent every week, regardless of who prepares it. Staff time is redirected from report assembly to analysis and decision-making.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;evidence&#34;&gt;Evidence&lt;/h3&gt;
+&lt;h3 id="evidence"&gt;Evidence&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Tool currently in active use at the Hospital MAC clinical laboratory.&lt;/li&gt;
 &lt;li&gt;Code maintained in a private repository.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;&lt;/h2&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/QC_registrator/inicio.png&#34; alt=&#34;Pagina Inicial&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/QC_registrator/Configurar.png&#34; alt=&#34;Pagina Configuración&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/QC_registrator/Registro.png&#34; alt=&#34;Motor trabajando&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Clinical KPI Dashboard and Digital Log</title>
-      <link>http://localhost:1313/en/project/lab-dashboard/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/lab-dashboard/</guid>
-      <description>&lt;h3 id=&#34;status&#34;&gt;Status&lt;/h3&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/QC_registrator/Inicio.png" alt="Pagina Inicial"&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/QC_registrator/Configurar.png" alt="Pagina Configuración"&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/QC_registrator/Registro.png" alt="Motor trabajando"&gt;</description></item><item><title>Clinical KPI Dashboard and Digital Log</title><link>https://danoop18.github.io/cv.github.io/en/project/lab-dashboard/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/en/project/lab-dashboard/</guid><description>&lt;h3 id="status"&gt;Status&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Not implemented&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;
+&lt;h3 id="problem"&gt;Problem&lt;/h3&gt;
 &lt;p&gt;Laboratory records are currently maintained in physical logbooks and disconnected spreadsheets updated by multiple individuals. Searching for a specific record requires manually flipping through pages. Cross-referencing data across dates, analysts, or services is not feasible during daily operations. There is no single location to view current laboratory activity at any given moment.&lt;/p&gt;
-&lt;h3 id=&#34;what-was-built&#34;&gt;What was built&lt;/h3&gt;
+&lt;h3 id="what-was-built"&gt;What was built&lt;/h3&gt;
 &lt;p&gt;An interactive Streamlit application serving as both a structured digital logbook and an operational KPI dashboard, with the potential to expand into a full operational LIMS. Staff enter records via an intuitive, comprehensive form interface; the application stores, organizes, and displays data, enabling immediate searching, filtering, and comparison without unnecessary page reloads.&lt;/p&gt;
-&lt;h3 id=&#34;technology&#34;&gt;Technology&lt;/h3&gt;
+&lt;h3 id="technology"&gt;Technology&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Backend data logic and application structure.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Streamlit&lt;/strong&gt;: Interactive web interface for data entry and visualization.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Pandas&lt;/strong&gt;: Structuring, filtering, and KPI aggregation.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;how-it-works&#34;&gt;How it works&lt;/h3&gt;
+&lt;h3 id="how-it-works"&gt;How it works&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Laboratory staff enter daily records using a structured form on the web interface (service type, analyst, result, date, observations).&lt;/li&gt;
 &lt;li&gt;Entries are stored and indexed so that any record can be retrieved by date, analyst, or service without reviewing physical pages.&lt;/li&gt;
 &lt;li&gt;The dashboard layer aggregates entries into operational KPIs: daily volume by service, QC pass rates, and workload distribution among analysts.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;outcome&#34;&gt;Outcome&lt;/h3&gt;
+&lt;h3 id="outcome"&gt;Outcome&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Metric&lt;/strong&gt;: Fully digital logbook system — eliminates manual logging by multiple users and streamlines record searching and cross-referencing.&lt;/p&gt;
@@ -275,83 +124,29 @@
 &lt;li&gt;
 &lt;p&gt;Code maintained in a private repository.&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Automation in a Mobile Environment with Termux</title>
-      <link>http://localhost:1313/en/project/android-termux-automation/</link>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/android-termux-automation/</guid>
-      <description>&lt;h3 id=&#34;status&#34;&gt;Status&lt;/h3&gt;
+&lt;/ul&gt;</description></item><item><title>Automation in a Mobile Environment with Termux</title><link>https://danoop18.github.io/cv.github.io/en/project/android-termux-automation/</link><pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/en/project/android-termux-automation/</guid><description>&lt;h3 id="status"&gt;Status&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Unvalidated prototype&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;general-description&#34;&gt;General Description&lt;/h3&gt;
+&lt;h3 id="general-description"&gt;General Description&lt;/h3&gt;
 &lt;p&gt;A custom command-line environment and script suite for Android devices leveraging Termux to enable lightweight background automation, remote task execution, and status checks for homelab servers and traditional home automation systems.&lt;/p&gt;
-&lt;h3 id=&#34;technical-scope&#34;&gt;Technical Scope&lt;/h3&gt;
+&lt;h3 id="technical-scope"&gt;Technical Scope&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Termux and POSIX Shell&lt;/strong&gt;: Lightweight Linux environment running directly on mobile hardware.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Python and Bash&lt;/strong&gt;: Background scripts, SSH key management, and API queries.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Remote Utilities&lt;/strong&gt;: Quick status checks and emergency control scripts accessible from anywhere.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;approach&#34;&gt;Approach&lt;/h3&gt;
-&lt;p&gt;Repurposing mobile hardware as low-power, portable nodes for personal workflows.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Experience &amp; Education</title>
-      <link>http://localhost:1313/en/experience/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Skills &amp; Languages</title>
-      <link>http://localhost:1313/en/skills/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Axolotl Tissue Regeneration and the Dynamics of Reactive Oxygen and Nitrogen Species (ROS/RNS)</title>
-      <link>http://localhost:1313/en/project/axolotl-regeneration-research/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/axolotl-regeneration-research/</guid>
-      <description>&lt;h3 id=&#34;scientific-question&#34;&gt;Scientific Question&lt;/h3&gt;
+&lt;h3 id="approach"&gt;Approach&lt;/h3&gt;
+&lt;p&gt;Repurposing mobile hardware as low-power, portable nodes for personal workflows.&lt;/p&gt;</description></item><item><title>Experience &amp; Education</title><link>https://danoop18.github.io/cv.github.io/en/experience/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/en/experience/</guid><description/></item><item><title>Skills &amp; Languages</title><link>https://danoop18.github.io/cv.github.io/en/skills/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/en/skills/</guid><description/></item><item><title>Axolotl Tissue Regeneration and the Dynamics of Reactive Oxygen and Nitrogen Species (ROS/RNS)</title><link>https://danoop18.github.io/cv.github.io/en/project/axolotl-regeneration-research/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/en/project/axolotl-regeneration-research/</guid><description>&lt;h3 id="scientific-question"&gt;Scientific Question&lt;/h3&gt;
 &lt;p&gt;How do reactive nitrogen and oxygen species (specifically peroxynitrite dynamics) modulate cell signaling cascades, tissue remodeling, and positional memory during limb regeneration in the axolotl (&lt;em&gt;Ambystoma mexicanum&lt;/em&gt;)?&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/ajolote_research.png&#34; alt=&#34;alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/ajolote_research.png" alt="Banner: Tissue regeneration research"&gt;
+&lt;h3 id="context"&gt;Context&lt;/h3&gt;
 &lt;p&gt;The axolotl is a fundamental model organism in regenerative biology due to its extraordinary ability to regenerate complex biological structures (limbs, cardiac tissue, and central nervous system components) without scarring. Understanding the early redox signaling cascades that trigger blastema formation is essential for deciphering cellular plasticity and tissue repair. This research was conducted as part of a Master&amp;rsquo;s degree program at CINVESTAV-UGA (Irapuato, Mexico).&lt;/p&gt;
-&lt;h3 id=&#34;experimental-approach&#34;&gt;Experimental Approach&lt;/h3&gt;
+&lt;h3 id="experimental-approach"&gt;Experimental Approach&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Molecular Biology and Sample Preparation&lt;/strong&gt;: Optimization of tissue collection and fixation protocols; molecular labeling using fluorescent probes at early and late post-amputation stages; design of mounting strategies and confocal analysis protocols.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Advanced Microscopy&lt;/strong&gt;: Use of laser scanning confocal microscopy to capture the spatiotemporal dynamics of labeled reactive species in real-time within the tissue during the initial stages of regeneration.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Image and Data Analysis&lt;/strong&gt;: Application of semi-quantitative analysis to extract metrics regarding signal intensity, spatial distribution, and cellular localization throughout the early phases of regeneration.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h3&gt;
+&lt;h3 id="research-focus"&gt;Research Focus&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Spatiotemporal distribution of peroxynitrite, superoxide, and nitric oxide accumulation during the early phases of wound healing and blastema formation post-amputation.&lt;/p&gt;
@@ -369,26 +164,17 @@
 &lt;p&gt;&lt;strong&gt;Affiliation&lt;/strong&gt;: Master&amp;rsquo;s thesis research, CINVESTAV-UGA (Irapuato, Mexico).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AU480 QC Data Automation</title>
-      <link>http://localhost:1313/en/project/au480-qc-automation/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/au480-qc-automation/</guid>
-      <description>&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;
+&lt;hr&gt;</description></item><item><title>AU480 QC Data Automation</title><link>https://danoop18.github.io/cv.github.io/en/project/au480-qc-automation/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/en/project/au480-qc-automation/</guid><description>&lt;h3 id="problem"&gt;Problem&lt;/h3&gt;
 &lt;p&gt;QC data from the AU480 analyzer required manual extraction and handling across multiple weekly sessions, consuming at least 2–3 hours of manual data curation. The process was repetitive, error-prone, and hindered consistent monitoring of analyzer performance. Any variation in manual handling introduced noise that obscured genuine QC trends. Since the operation relied on external infrastructure, there was no automatic local integration for internal data analysis.&lt;/p&gt;
-&lt;h3 id=&#34;solution&#34;&gt;Solution&lt;/h3&gt;
+&lt;h3 id="solution"&gt;Solution&lt;/h3&gt;
 &lt;p&gt;A Python-based automation system that extracts raw quality control records, processes them through a Pandas pipeline to generate structured outputs, and automatically uploads them to the external analysis platform (app.cclabcontrol.com) using Selenium. This enables real-time performance monitoring and review from any web-enabled device.&lt;/p&gt;
-&lt;h3 id=&#34;technology&#34;&gt;Technology&lt;/h3&gt;
+&lt;h3 id="technology"&gt;Technology&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Core scripting logic, parsing, and data processing.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Selenium&lt;/strong&gt;: Automated interaction with the database interface.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Pandas&lt;/strong&gt;: Cleaning, normalization, and generation of clean, structured outputs.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;how-it-works&#34;&gt;How It Works&lt;/h3&gt;
+&lt;h3 id="how-it-works"&gt;How It Works&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Raw data is extracted from the local AU480 analyzer system.&lt;/li&gt;
 &lt;li&gt;Records are loaded into a Pandas DataFrame and cleaned: inconsistent formats are normalized, duplicates are removed, and expected fields are validated.&lt;/li&gt;
@@ -399,94 +185,40 @@
 &lt;li&gt;&lt;strong&gt;Metric&lt;/strong&gt;: Processes weekly batches of over 100 analytes per day in approximately 1 hour.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Eliminated repetitive manual data handling. QC monitoring became consistent and reproducible: the same process runs the same way every week, regardless of who executes it.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;evidence&#34;&gt;Evidence&lt;/h3&gt;
+&lt;h3 id="evidence"&gt;Evidence&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Active implementation in the Hospital MAC clinical laboratory.&lt;/li&gt;
 &lt;li&gt;Code maintained in a personal repository.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/Scraping_QC.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Clinical Data Pipeline: From Excel/VBA to Python</title>
-      <link>http://localhost:1313/en/project/clinical-data-pipeline/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/clinical-data-pipeline/</guid>
-      <description>&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/Scraping_QC.png" alt="Cover web scraping"&gt;</description></item><item><title>Clinical Data Pipeline: From Excel/VBA to Python</title><link>https://danoop18.github.io/cv.github.io/en/project/clinical-data-pipeline/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/en/project/clinical-data-pipeline/</guid><description>&lt;h3 id="problem"&gt;Problem&lt;/h3&gt;
 &lt;p&gt;Laboratory records were manually consolidated from multiple spreadsheets during each reporting cycle. The process relied on copy-paste operations, manual formula application, and formatting adjustments that had to be repeated from scratch every time. Errors accumulated unnoticed, and tracing their origins was difficult.&lt;/p&gt;
-&lt;h3 id=&#34;what-was-built&#34;&gt;What Was Built&lt;/h3&gt;
+&lt;h3 id="what-was-built"&gt;What Was Built&lt;/h3&gt;
 &lt;p&gt;The workflow evolved through two stages. First, a set of Excel/VBA macros automated the most repetitive formatting and consolidation steps within the existing spreadsheet environment. As requirements grew and data volume increased, the process was rebuilt as a Python/Pandas pipeline that performs the same consolidation and cleaning tasks more reliably, scriptably, and maintainably.&lt;/p&gt;
-&lt;h3 id=&#34;technology&#34;&gt;Technology&lt;/h3&gt;
+&lt;h3 id="technology"&gt;Technology&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Stage 1 — Excel/VBA:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Excel macros for standardizing formats and performing basic field consolidation across sheets.&lt;/li&gt;
 &lt;li&gt;VBA scripts to automate repetitive manual steps without altering the spreadsheet-based workflow.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/Macros_formato.png&#34; alt=&#34;alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/Macros_formato.png" alt="cover macros application"&gt;
 &lt;p&gt;&lt;strong&gt;Stage 2 — Python/Pandas:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Python scripts replace manual data assembly.&lt;/li&gt;
 &lt;li&gt;Pandas used for structured cleaning, validation, and transformation of records from multiple sources.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;how-it-works&#34;&gt;How It Works&lt;/h3&gt;
+&lt;h3 id="how-it-works"&gt;How It Works&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Raw records from multiple files are loaded into a single processing context (spreadsheet or script, depending on the stage).&lt;/li&gt;
 &lt;li&gt;Formatting inconsistencies are detected and corrected: date formats, field naming conventions, empty rows, and column misalignments.&lt;/li&gt;
 &lt;li&gt;A mapping is established between study codes and the common names used in reports to standardize the records.&lt;/li&gt;
 &lt;li&gt;Cleaned and validated data is written to a single, structured output file for operational reporting.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;result&#34;&gt;Result&lt;/h3&gt;
+&lt;h3 id="result"&gt;Result&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Reduced risk of manual errors during report preparation. The transition from VBA to Python made the process easier to audit, modify, and transfer—since the logic resides in code rather than cell references. - The metric for this project is qualitative: the value lies in reproducibility and error reduction, not in a single measurable figure.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;evidence&#34;&gt;Evidence&lt;/h3&gt;
+&lt;h3 id="evidence"&gt;Evidence&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Both stages implemented at Hospital MAC.&lt;/li&gt;
 &lt;li&gt;VBA macros and Python scripts maintained in a private repository.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/ul&gt;</description></item></channel></rss>

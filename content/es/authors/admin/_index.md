@@ -89,6 +89,25 @@ work:
       - Desarrollo de scripts en Python para procesamiento y visualización de datos.
       - Traducción de necesidades de laboratorio en flujos de datos reproducibles.
 
+certifications:
+  - name: Python para análisis de datos
+    issuer: Curso / Institución
+    date: 2025
+    icon: code-bracket
+    url: 'https://drive.google.com/...'
+
+  - name: Excel y VBA
+    issuer: Curso / Institución
+    date: 2025
+    icon: table-cells
+    url: 'https://drive.google.com/...'
+
+  - name: Biología molecular
+    issuer: Curso / Institución
+    date: 2024
+    icon: beaker
+    url: 'https://drive.google.com/...'
+    
 skills:
   - name: Laboratorio
     items:
@@ -141,8 +160,12 @@ languages:
 
 **Acerca de mí**
 
-Soy un profesional de laboratorio con formación en biotecnología que desarrolla herramientas de software, automatiza flujos de datos y convierte procesos manuales repetitivos en sistemas reproducibles y trazables.
+Soy un profesional de laboratorio con formación en ingenieria bioquímica y biotecnología que ademas desarrolla herramientas de software, automatiza flujos de datos y convierte procesos manuales repetitivos en sistemas reproducibles y trazables.
 
 Actualmente trabajo en diagnóstico clínico en Hospital MAC, donde identifico cuellos de botella operativos y los resuelvo mediante automatización: desde pipelines de datos de control de calidad hasta bitácoras digitales y herramientas de registro masivo de pacientes. Mi formación en ingeniería bioquímica y biotecnología de plantas en CINVESTAV me da una comprensión del laboratorio desde adentro: conozco el proceso que automatizo, no solo el código.
 
-Mi objetivo es aplicar esta combinación — conocimiento de laboratorio y capacidad de ingeniería — en organizaciones donde los datos confiables y los flujos de trabajo eficientes marcan una diferencia medible.
+Mi objetivo es aportar mi capacidad analítica y técnica para resolver desafíos complejos, maximizando la eficiencia operativa y contribuyendo directamente a los objetivos de crecimiento de mi organización.
+
+
+
+

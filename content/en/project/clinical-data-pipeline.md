@@ -32,7 +32,7 @@ The workflow evolved through two stages. First, a set of Excel/VBA macros automa
 - Excel macros for standardizing formats and performing basic field consolidation across sheets.
 - VBA scripts to automate repetitive manual steps without altering the spreadsheet-based workflow.
 
-![cover macros application](uploads/Macros_formato.png)
+{{< img src="uploads/Macros_formato.png" alt="cover macros application" >}}
 
 **Stage 2 — Python/Pandas:**
 - Python scripts replace manual data assembly.
@@ -53,3 +53,5 @@ The workflow evolved through two stages. First, a set of Excel/VBA macros automa
 
 - Both stages implemented at Hospital MAC.
 - VBA macros and Python scripts maintained in a private repository.
+
+

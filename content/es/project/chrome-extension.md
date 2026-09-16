@@ -44,3 +44,6 @@ Una herramienta de automatización web que procesa listas de pacientes en lote e
 ### Evidencia
 
 - Herramienta en uso activo para jornadas empresariales en Hospital MAC.
+
+
+

@@ -31,4 +31,6 @@ Personal computational biology experiments evaluating deep learning-based cell s
 ### Focus
 Evaluating segmentation accuracy and automating cell counting workflows for bioimaging datasets.
 
-![stock confocal image](uploads/MPO_imagen.webp)
+{{< img src="uploads/MPO_imagen.webp" alt="stock confocal image" >}}
+
+

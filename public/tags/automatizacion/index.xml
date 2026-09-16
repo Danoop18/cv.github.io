@@ -1,88 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Automatización | CV Juan Hernández</title>
-    <link>http://localhost:1313/tags/automatizacion/</link>
-      <atom:link href="http://localhost:1313/tags/automatizacion/index.xml" rel="self" type="application/rss+xml" />
-    <description>Automatización</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
-      <title>Automatización</title>
-      <link>http://localhost:1313/tags/automatizacion/</link>
-    </image>
-    
-    <item>
-      <title>Herramienta de Consolidación de Reportes de Laboratorio</title>
-      <link>http://localhost:1313/project/laboratory-report-consolidation/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/laboratory-report-consolidation/</guid>
-      <description>&lt;h3 id=&#34;problema&#34;&gt;Problema&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Automatización | CV Juan Hernández</title><link>https://danoop18.github.io/cv.github.io/tags/automatizacion/</link><atom:link href="https://danoop18.github.io/cv.github.io/tags/automatizacion/index.xml" rel="self" type="application/rss+xml"/><description>Automatización</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>https://danoop18.github.io/cv.github.io/media/icon_hu_4bc81f2edf496b34.png</url><title>Automatización</title><link>https://danoop18.github.io/cv.github.io/tags/automatizacion/</link></image><item><title>Herramienta de Consolidación de Reportes de Laboratorio</title><link>https://danoop18.github.io/cv.github.io/project/laboratory-report-consolidation/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/project/laboratory-report-consolidation/</guid><description>&lt;h3 id="problema"&gt;Problema&lt;/h3&gt;
 &lt;p&gt;Los reportes semanales de KPIs requerían extraer datos manualmente de múltiples archivos Excel, aplicar fórmulas entre hojas y reformatear la salida para que coincidiera con una estructura estándar — cada semana. El proceso era lento, y cualquier error en una fórmula o desviación de formato introducía inconsistencias que había que encontrar y corregir antes de distribuir el reporte.&lt;/p&gt;
-&lt;h3 id=&#34;qué-se-construyó&#34;&gt;Qué se construyó&lt;/h3&gt;
+&lt;h3 id="qué-se-construyó"&gt;Qué se construyó&lt;/h3&gt;
 &lt;p&gt;Una herramienta de automatización en Python que lee datos de los archivos Excel fuente, consolida registros, aplica los cálculos requeridos y escribe la salida en una estructura consistente y preformateada, lista para revisión. El proceso que antes tomaba horas de trabajo manual corre en minutos.&lt;/p&gt;
-&lt;h3 id=&#34;tecnología&#34;&gt;Tecnología&lt;/h3&gt;
+&lt;h3 id="tecnología"&gt;Tecnología&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Lógica principal de procesamiento de datos y generación de salidas.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Pandas / OpenPyXL&lt;/strong&gt;: Carga de múltiples archivos, unión, cálculo y generación de salida Excel estructurada.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Excel&lt;/strong&gt;: Formato de los datos fuente y del reporte final.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;cómo-funciona&#34;&gt;Cómo funciona&lt;/h3&gt;
+&lt;h3 id="cómo-funciona"&gt;Cómo funciona&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Los archivos fuente de la semana se colocan en el directorio de entrada designado.&lt;/li&gt;
 &lt;li&gt;El script carga y une registros de todos los archivos, valida la consistencia de campos y aplica los cálculos de KPIs.&lt;/li&gt;
 &lt;li&gt;Un reporte Excel limpio y consistentemente formateado se escribe en el directorio de salida, listo para revisión y distribución.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;resultado&#34;&gt;Resultado&lt;/h3&gt;
+&lt;h3 id="resultado"&gt;Resultado&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Métrica&lt;/strong&gt;: Ahorra más de 8 horas de trabajo manual a la semana mediante la semi-automatización del reporte semanal de KPIs.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: Los errores de cálculo por ingreso manual de fórmulas fueron eliminados. El formato del reporte es consistente cada semana sin importar quién lo prepare. El tiempo del personal se redirige del ensamblaje del reporte al análisis y la toma de decisiones.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;evidencia&#34;&gt;Evidencia&lt;/h3&gt;
+&lt;h3 id="evidencia"&gt;Evidencia&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Herramienta en uso activo en el laboratorio clínico de Hospital MAC.&lt;/li&gt;
 &lt;li&gt;Código mantenido en repositorio privado.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Automatización en Entorno Móvil con Termux</title>
-      <link>http://localhost:1313/project/android-termux-automation/</link>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/android-termux-automation/</guid>
-      <description>&lt;h3 id=&#34;estado&#34;&gt;Estado&lt;/h3&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/QC_registrator/Inicio.png" alt="Pagina Inicial"&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/QC_registrator/Configurar.png" alt="Pagina Configuración"&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/QC_registrator/Registro.png" alt="Motor trabajando"&gt;</description></item><item><title>Automatización en Entorno Móvil con Termux</title><link>https://danoop18.github.io/cv.github.io/project/android-termux-automation/</link><pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/project/android-termux-automation/</guid><description>&lt;h3 id="estado"&gt;Estado&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Prototipo sin validar&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;descripción-general&#34;&gt;Descripción General&lt;/h3&gt;
+&lt;h3 id="descripción-general"&gt;Descripción General&lt;/h3&gt;
 &lt;p&gt;Entorno de línea de comandos personalizado y scripts en dispositivos Android que pretende utilizar Termux para habilitar automatización ligera en segundo plano, ejecución remota de tareas y verificaciones de servidor homelab y domotica clasica&lt;/p&gt;
-&lt;h3 id=&#34;alcance-técnico&#34;&gt;Alcance Técnico&lt;/h3&gt;
+&lt;h3 id="alcance-técnico"&gt;Alcance Técnico&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Termux y Shell POSIX&lt;/strong&gt;: Entorno Linux ligero ejecutándose directamente en hardware móvil.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Python y Bash&lt;/strong&gt;: Scripts programados en segundo plano, gestión de llaves SSH y consultas a APIs.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Utilidades Remotas&lt;/strong&gt;: Verificaciones rápidas de estado y scripts de control de emergencia accesibles desde cualquier lugar.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;enfoque&#34;&gt;Enfoque&lt;/h3&gt;
+&lt;h3 id="enfoque"&gt;Enfoque&lt;/h3&gt;
 &lt;p&gt;Aprovechamiento de hardware móvil reutilizado como nodos portátiles de bajo consumo para flujos de trabajo personales.&lt;/p&gt;
-&lt;h3 id=&#34;codígo&#34;&gt;Codígo&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Automatización de Datos QC AU480</title>
-      <link>http://localhost:1313/project/au480-qc-automation/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/au480-qc-automation/</guid>
-      <description>&lt;h3 id=&#34;problema&#34;&gt;Problema&lt;/h3&gt;
+&lt;h3 id="codígo"&gt;Codígo&lt;/h3&gt;</description></item><item><title>Automatización de Datos QC AU480</title><link>https://danoop18.github.io/cv.github.io/project/au480-qc-automation/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://danoop18.github.io/cv.github.io/project/au480-qc-automation/</guid><description>&lt;h3 id="problema"&gt;Problema&lt;/h3&gt;
 &lt;p&gt;Los datos QC del analizador AU480 requerían extracción y manejo manual en múltiples sesiones cada semana con gasto en al menos 2-3 horas de curado manual. El proceso era repetitivo, propenso a errores y dificultaba el seguimiento consistente del desempeño del analizador. Cualquier variación en el manejo manual introducía ruido que ocultaba tendencias reales de QC. La operación fue subrogada a infraestructura externa por lo que no existe integración local automática para el análisis interno de los datos.&lt;/p&gt;
-&lt;h3 id=&#34;qué-se-construyó&#34;&gt;Qué se construyó&lt;/h3&gt;
+&lt;h3 id="qué-se-construyó"&gt;Qué se construyó&lt;/h3&gt;
 &lt;p&gt;Sistema de automatización en Python que extrae registros brutos de control de calidad, los procesa mediante un pipeline de Pandas para generar salidas estructuradas, y los carga automáticamente en la plataforma de análisis externa (app.cclabcontrol.com) mediante Selenium, permitiendo su revisión y monitoreo de desempeño desde cualquier dispositivo con acceso a la web tiempo real.&lt;/p&gt;
-&lt;h3 id=&#34;tecnología&#34;&gt;Tecnología&lt;/h3&gt;
+&lt;h3 id="tecnología"&gt;Tecnología&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: Lógica principal de scripting y parseo y procesamiento de datos.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Selenium&lt;/strong&gt;: Interacción automatizada con la interfaz la base de datos.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Pandas&lt;/strong&gt;: Limpieza, normalización y generación de salidas limpias y estructuradas.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;cómo-funciona&#34;&gt;Cómo funciona&lt;/h3&gt;
+&lt;h3 id="cómo-funciona"&gt;Cómo funciona&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Se extraen los datos crudos desde el sistema local del analizador AU480.&lt;/li&gt;
 &lt;li&gt;Los registros se cargan en un DataFrame de Pandas y se limpian: se normalizan formatos inconsistentes, se eliminan duplicados y se validan los campos esperados.&lt;/li&gt;
@@ -93,39 +59,15 @@
 &lt;li&gt;&lt;strong&gt;Métrica&lt;/strong&gt;: Procesa lotes semanales con más de 100 analitos por día en aproximadamente 1 hora.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Impacto&lt;/strong&gt;: Eliminó la manipulación manual repetitiva de datos. El monitoreo de QC se volvió consistente y reproducible: el mismo proceso corre de la misma manera cada semana, sin importar quién lo ejecute.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;evidencia&#34;&gt;Evidencia&lt;/h3&gt;
+&lt;h3 id="evidencia"&gt;Evidencia&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Implementación activa en el laboratorio clínico de Hospital MAC.&lt;/li&gt;
 &lt;li&gt;Código mantenido en repositorio personal.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/uploads/Scraping_QC.png&#34; alt=&#34;Imagen de inicio del sitema de analisis web cclabcontrol&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/Scraping_QC.png" alt="Imagen de inicio del sistema de análisis web cclabcontrol"&gt;
+&lt;div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;"&gt;
+&lt;p&gt;&lt;img src="https://danoop18.github.io/cv.github.io/uploads/QC_registrator/inicio.png" alt="Inicio" style="ZgotmplZ"&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/QC_registrator/Configurar.png" alt="Configuración" style="ZgotmplZ"&gt;
+&lt;img src="https://danoop18.github.io/cv.github.io/uploads/QC_registrator/Registro.png" alt="Registro" style="ZgotmplZ"&gt;
 &lt;/p&gt;
-&lt;div style=&#34;display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;&#34;&gt;
-  &lt;img src=&#34;uploads/QC_registrator/inicio.png&#34; alt=&#34;Inicio&#34; style=&#34;width: 100%; border-radius: 15px;&#34;&gt;
-  &lt;img src=&#34;uploads/QC_registrator/Configurar.png&#34; alt=&#34;Configuracion&#34; style=&#34;width: 100%; border-radius: 15px;&#34;&gt;
-  &lt;img src=&#34;uploads/QC_registrator/Registro.png&#34; alt=&#34;Registro&#34; style=&#34;width: 100%; border-radius: 15px;&#34;&gt;
-&lt;/div&gt; 
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/div&gt;</description></item></channel></rss>

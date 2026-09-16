@@ -49,4 +49,6 @@ A Python-based automation system that extracts raw quality control records, proc
 - Active implementation in the Hospital MAC clinical laboratory.
 - Code maintained in a personal repository.
 
-![Cover web scraping](uploads/Scraping_QC.png)
+{{< img src="uploads/Scraping_QC.png" alt="Cover web scraping" >}}
+
+

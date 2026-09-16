@@ -48,8 +48,10 @@ Una herramienta de automatización en Python que lee datos de los archivos Excel
 - Herramienta en uso activo en el laboratorio clínico de Hospital MAC.
 - Código mantenido en repositorio privado.
 
-![Pagina Inicial](uploads/QC_registrator/inicio.png)
+{{< img src="uploads/QC_registrator/Inicio.png" alt="Pagina Inicial" >}}
 
-![Pagina Configuración](uploads/QC_registrator/Configurar.png)
+{{< img src="uploads/QC_registrator/Configurar.png" alt="Pagina Configuración" >}}
 
-![Motor trabajando](uploads/QC_registrator/Registro.png)
+{{< img src="uploads/QC_registrator/Registro.png" alt="Motor trabajando" >}}
+
+

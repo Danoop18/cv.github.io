@@ -49,3 +49,6 @@ Una aplicación Streamlit interactiva que funciona como bitácora digital estruc
 
 - ~~Desplegado en el laboratorio clínico de Hospital MAC~~.
 - Código mantenido en repositorio privado.
+
+
+
